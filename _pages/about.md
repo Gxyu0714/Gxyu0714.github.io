@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
   <h1>Welcome to My Website!</h1>
   <p>Hello, and welcome to my website! My name is <strong>Xinyu Guo</strong>, and I’m thrilled to share my journey and aspirations with you.</p>
   <p>
-    As a dedicated Master's student in Health Policy and Management at Sichuan University, I am passionate about leveraging research to address pressing challenges in healthcare and public health.
+    As a dedicated Master's student in Health Policy and Management at <a href="https://en.scu.edu.cn/" target="_blank"> Sichuan University</a>, I am passionate about leveraging research to address pressing challenges in healthcare and public health.
     With a strong foundation in data analysis, interdisciplinary studies, and a proven track record in impactful projects, I’m eager to contribute to innovative and meaningful research.
   </p>
   <p>
