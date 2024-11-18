@@ -26,8 +26,6 @@ social: true # includes social icons at the bottom of the page
     I am actively seeking a <strong>PhD position for Fall 2025</strong> or a <strong>Research Assistant role</strong>, where I can collaborate with like-minded individuals to drive positive change.
     Thank you for visiting—I look forward to connecting and exploring exciting opportunities together!
   </p>
-</section>
-Hello! I'm Xinyu Guo, a Master's student in Health Policy and Management at Sichuan University. My research interests lie in public health, particularly in child health and health policy. I'm passionate about using data analysis and machine learning techniques to gain insights into health-related issues.
 
 ## Education
 
