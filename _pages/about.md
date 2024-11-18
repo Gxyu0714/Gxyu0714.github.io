@@ -27,6 +27,10 @@ social: true # includes social icons at the bottom of the page
     Thank you for visiting—I look forward to connecting and exploring exciting opportunities together!
   </p>
 
+
+
+
+
 ## Education
 
 - **Master of Health Policy and Management** (Expected 2025)  
