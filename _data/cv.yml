@@ -2,96 +2,100 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xinyu Guo
+    - name: Email
+      value: guoxinyu714@stu.scu.edu.cn
+    - name: Phone
+      value: +86 15851801843
+    - name: Website
+      value: <a href="https://gxyu0714.github.io/">gxyu0714.github.io</a>
     - name: Languages
-      value: English, German
+      value: Chinese (native), English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Health Policy and Management
+      institution: Sichuan University, West China Fourth Hospital, Chengdu, China
+      year: 2022 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA: 3.75/4.0
+        - Relevant Courses: Health Economics (97), Health Policy and Management (90)
+    - title: Bachelor of E-Commerce
+      institution: Nanjing University of Traditional Chinese Medicine, Nanjing, China
+      year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 3.62/4.0, Ranked 1 out of 39
+        - Relevant Courses: Linear Algebra (A), Game Theory (A), SPSS Economic Statistical Analysis (A)
+    - title: International Organizations Program
+      institution: Cambridge University, Girton College, Cambridge, UK
+      year: 2023
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Project Assistant
+      institution: Hong Kong Polytechnic University, Department of Applied Social Sciences
+      year: 03/2024 - 07/2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Implemented RI-CLPM extended and LGCM models using R and Mplus.
+        - Assisted in workshops for undergraduate courses on service leadership.
+    - title: Editor
+      institution: SurgeBot Technology Co., Ltd., Beijing, China
+      year: 08/2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Authored and reviewed articles on medical devices and policies.
+        - Contributed to a global surgical robot market analysis report.
+    - title: Intern, Capability Enhancement Department
+      institution: JD Health International Inc., Beijing, China
+      year: 02/2022 - 06/2022
       description:
+        - Managed the group's first internal "Spark Plan" innovation project.
+        - Organized workshops to address key business challenges.
+    - title: Intern
+      institution: Science and Technology Park of Sichuan University, Sichuan, China
+      year: 09/2023 - Present
+      description:
+        - Coordinated a team to develop a full-service platform for research achievements transformation.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Integrating Causality into Clinical Decision-Making for Enhanced ICU Mortality Prediction
+      institution: College of Computer Science, Sichuan University
+      year: 07/2024 - Present
+      description:
+        - Developed a causal prediction model outperforming benchmarks in ICU data analysis.
+    - title: Life Changes and Mental Health Among Chinese Students During COVID-19
+      institution: West China Hospital, SCU
+      year: 07/2021 - 06/2024
+      description:
+        - Analyzed survey data from 7,829 students to study mental health impacts during lockdowns.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020-2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - President’s Special Award (Top 10)
+        - First-Class Scholarship (Top 3%)
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Outstanding Graduate, NJUCM (Top 7%)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Health Policy and Management
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Research on public health policy development.
+        - Hospital management and health economics.
+    - title: Data-Driven Healthcare
       items:
-        - Description 1.
-        - Description 2.
+        - Machine learning for predictive modeling.
+        - Statistical analysis of healthcare outcomes.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Taekwondo (National level competitor), Creative writing, Hiking.
