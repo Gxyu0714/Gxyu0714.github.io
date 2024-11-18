@@ -2,8 +2,8 @@
 layout: page
 title: Chengdu Positive Child Development (CPCD) Survey
 description: Investigating child development and well-being in Chengdu
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/cpcd.jpg
+importance: 1
 category: work
 giscus_comments: true
 ---
