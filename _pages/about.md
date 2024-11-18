@@ -9,15 +9,24 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>West China Fourth Hospital</p>
-    <p>Sichuan University</p>
-    <p>Chengdu, Sichuan 610041, P. R. China</p>
+    <p>guoxinyu00714@gmail.com</p>
+    <p>Pronouns: she/her</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
+  <h1>Welcome to My Website!</h1>
+  <p>Hello, and welcome to my website! My name is <strong>Xinyu Guo</strong>, and I’m thrilled to share my journey and aspirations with you.</p>
+  <p>
+    As a dedicated Master's student in Health Policy and Management at Sichuan University, I am passionate about leveraging research to address pressing challenges in healthcare and public health.
+    With a strong foundation in data analysis, interdisciplinary studies, and a proven track record in impactful projects, I’m eager to contribute to innovative and meaningful research.
+  </p>
+  <p>
+    I am actively seeking a <strong>PhD position for Fall 2025</strong> or a <strong>Research Assistant role</strong>, where I can collaborate with like-minded individuals to drive positive change.
+    Thank you for visiting—I look forward to connecting and exploring exciting opportunities together!
+  </p>
+</section>
 Hello! I'm Xinyu Guo, a Master's student in Health Policy and Management at Sichuan University. My research interests lie in public health, particularly in child health and health policy. I'm passionate about using data analysis and machine learning techniques to gain insights into health-related issues.
 
 ## Education
