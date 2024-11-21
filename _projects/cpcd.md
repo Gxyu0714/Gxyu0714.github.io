@@ -3,7 +3,7 @@ layout: page
 title: Chengdu Positive Child Development (CPCD) Survey
 description: Investigating child development and well-being in Chengdu
 img: assets/img/cpcd.png
-importance: 1
+importance: 3
 category: work
 ---
 
@@ -42,10 +42,12 @@ The Chengdu Positive Child Development (CPCD) survey is a longitudinal study tha
 - **Data Collection and Processing**: Managed field surveys, data entry using Epidata, and ensured accuracy in preliminary data processing.
 - **Statistical Analysis**: Conducted advanced analysis with tools like SPSS, R, and MLwiN, contributing to scholarly articles and policy recommendations.
 
+
 ### **Key Outcomes**
 - Identified significant factors contributing to child well-being and mental health in urban settings.
 - Delivered actionable insights for policy-making in education and public health.
 - Provided data-driven recommendations for improving child development programs.
+
 
 ### **Publications**
 Findings from the CPCD Survey have contributed to multiple research publications, highlighting the project’s impact on child development research and policy.
