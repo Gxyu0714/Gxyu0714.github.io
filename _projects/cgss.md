@@ -4,7 +4,7 @@ title: Chinese General Social Survey (CGSS) 2023
 description: Exploring social structure and quality of life in urban and rural China
 img: assets/img/cgss_logo.jpg
 importance: 3
-category: work
+category: Cohort Survey and Practice
 ---
 
 The Chinese General Social Survey (CGSS) [website](http://cgss.ruc.edu.cn/English/Home.htm) is a comprehensive project aimed at understanding the relationship between social structure and quality of life across urban and rural areas in China. In 2023, I co-led the Sichuan survey team, focusing on gathering critical insights through detailed fieldwork and analysis.
