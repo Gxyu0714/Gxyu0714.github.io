@@ -115,7 +115,7 @@
     {
       "name": "Health Policy Research",
       "level": "Advanced",
-      "keywords": ["Chronic Disease Policy", "ICU Mortality Prediction"]
+      "keywords": ["Chronic Disease Policy", "ICU Mortality Prediction", "Mental health of adolescents"]
     },
     {
       "name": "Machine Learning",
@@ -171,13 +171,13 @@
     },
     {
       "title": "First-Class Scholarship",
-      "date": "2018-2019, 2019-2020, 2020-2021, 2021-2022",
+      "date": "2018-2022",
       "awarder": "Nanjing University of Traditional Chinese Medicine",
       "summary": "Awarded to the top 3% of students for three consecutive academic years."
     },
     {
       "title": "Graduate Scholarship, SCU",
-      "date": "2022-2023, 2023-2024, 2024-2025",
+      "date": "2022-2025",
       "awarder": "Sichuan University",
       "summary": "Awarded to the top 20% of students based on academic performance."
     },
