@@ -2,7 +2,7 @@
 layout: page
 title: Computational causality to discover factors and pathways of NSSI in children
 description: Insights from computational causal analysis on the factors contributing to non-suicidal self-injury in children.
-img: assets/img/NSSI.png
+img: assets/img/NSSI1.png
 importance: 1
 category: Research
 ---
