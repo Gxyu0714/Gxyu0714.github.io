@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "SurgeBot Technology Co., Ltd.",
+      "name": "MedRobot",
       "position": "Editor",
       "url": "",
       "startDate": "2022-08-01",
@@ -45,8 +45,20 @@
       "highlights": [
         "Assisted in teaching workshops for the undergraduate course 'Service Leadership through Serving Children and Families with Special Needs.'"
       ]
-    }
-  ],
+    },
+  {
+  "name": "JD Health International Inc.",
+  "position": "Intern, Capability Enhancement Department",
+  "url": "https://ir.jdhealth.com/en/index.php",
+  "startDate": "2022-02-01",
+  "endDate": "2022-06-01",
+  "summary": "Contributed to innovation and capability enhancement initiatives within JD Health, focusing on entrepreneurship and business problem-solving.",
+  "highlights": [
+    "Led the 'Spark Plan' innovation project, managing 36 submissions, professional training, and securing 2 investments.",
+    "Assisted department leaders in analyzing and addressing key business challenges through targeted workshops."
+  ]
+}
+ ],
   "education": [
     {
       "institution": "Sichuan University",
@@ -98,7 +110,7 @@
     {
       "name": "Data Analysis",
       "level": "Advanced",
-      "keywords": ["R", "Mplus", "SPSS", "MLwin"]
+      "keywords": ["R", "Python", "Mplus", "SPSS", "MLwin"]
     },
     {
       "name": "Health Policy Research",
@@ -151,23 +163,29 @@
     }
   ],
   "awards": [
-    {
-      "title": "First-Class Scholarship, NJUCM",
+        {
+      "title": "President’s Special Award",
       "date": "2020-10-01",
+      "awarder": "Nanjing University of Traditional Chinese Medicine",
+      "summary": "Top 10 of one academic year."
+    },
+    {
+      "title": "First-Class Scholarship",
+      "date": "2018-2019, 2019-2020, 2020-2021, 2021-2022",
       "awarder": "Nanjing University of Traditional Chinese Medicine",
       "summary": "Awarded to the top 3% of students for three consecutive academic years."
     },
     {
-      "title": "Second-Class Graduate Scholarship, SCU",
-      "date": "2023-09-01",
+      "title": "Graduate Scholarship, SCU",
+      "date": "2022-2023, 2023-2024, 2024-2025",
       "awarder": "Sichuan University",
       "summary": "Awarded to the top 20% of students based on academic performance."
     },
     {
-      "title": "Jiangsu Provincial College Taekwondo Championships",
-      "date": "2020-11-01",
-      "awarder": "Jiangsu Province",
-      "summary": "5th place in the women's 59kg category."
+      "title": "China College Student Entrepreneurship Competition",
+      "date": "2020-12-01",
+      "awarder": "China Association for Science and Technology, Ministry of Education",
+      "summary": "National Bronze Award (Team Leader)."
     }
   ]
 }
