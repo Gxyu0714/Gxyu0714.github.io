@@ -1,81 +1,81 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: Dynamic Causal Graph-Based Learning
+description: Predicting Cognitive Impairment in Middle-Aged and Older Adults using a novel approach.
+img: assets/img/DAG1.png
 importance: 2
-category: work
-giscus_comments: true
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project introduces a **Dynamic Causal Graph-Based Learning Approach** designed to predict cognitive impairment risk among middle-aged and older adults. The study leverages longitudinal data, employing causal discovery methods to uncover relationships influencing cognitive changes over time. The developed model not only improves prediction accuracy but also enhances the understanding of causal mechanisms behind cognitive impairment.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+### Features and Contributions
+
+#### Key Highlights
+- **Dynamic Causal Graph Generation**: Constructs causal graphs for resilient feature relationships.
+- **Enhanced Model Performance**: Achieved higher accuracy with fewer input variables.
+- **Longitudinal Insight**: Captures evolving factors contributing to cognitive changes over time.
+
+### Data Source
+
+The model utilizes data from the **[China Health and Retirement Longitudinal Study (CHARLS)](https://charls.pku.edu.cn/en/)**. CHARLS aims to collect a high-quality, nationally representative sample of Chinese residents aged 45 and older, serving the needs of scientific research on the elderly.
+- **Baseline Survey**: Conducted in 2011, covering approximately 10,000 households and 17,500 individuals across 150 counties/districts and 450 villages/resident committees.
+- **Follow-up Frequency**: Participants are revisited every two years to track longitudinal changes.
+- **Data Availability**: All data is made publicly available one year after the conclusion of each data collection phase.
+
+This comprehensive dataset forms the backbone of our model, enabling robust analysis of the evolving factors contributing to cognitive impairment in middle-aged and older adults.
+
+---
+
+### Methodology
+
+- **Causal Discovery**: Uses Graph Autoencoder (GAE) and Causal Generative Neural Networks (CGNN) to identify causal relationships.
+- **Model Architecture**: Combines Long Short-Term Memory (LSTM) for temporal dependencies with Multi-Layer Perceptron (MLP) for static features.
+- **Dynamic Feature Selection**: Employs top-ranked causal features for enhanced prediction accuracy.
+
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/DAG1.png" title="Graph Structure Example" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Cognitive impairment prediction framework in CHARLS. (a) shows how to process data, variables and label. (b)shows the structure of our prediction model.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Results
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+- Achieved **AUROC of 0.87** and **AUPRC of 0.72** in the final round.
+- Demonstrated superior performance compared to traditional machine learning models like Logistic Regression, Random Forest, and XGBoost.
+- Identified persistent indicators including demographic data, health markers, and lifestyle factors critical for prediction.
+
+
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/DAG2.png" title="Model Framework" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Figure 2: River plot for 4 rounds of variables. Different colors represent the categories to which the variables belong. The presence of this color indicates that the variable is a predictor variable in this round.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/DAG3.png" title="Performance Results" class="img-fluid rounded z-depth-1" %}
 </div>
-```
+<div class="caption">
+    Performance evaluation for Round 4 on full feature set and dynamic top causality feature set is presented, showcasing mean values for each metric, with corresponding 95% conffdence intervals (CI) in parentheses. 
+</div>
 
-{% endraw %}
+---
+
+### Conclusion
+
+This project advances the prediction and understanding of cognitive impairment by:
+- Offering interpretable insights into causal mechanisms.
+- Enhancing prediction models with dynamic feature selection.
+- Contributing to targeted intervention strategies for at-risk populations.
+
+#### Related Links
+- [Read the Full Paper](https://escholarship.org/uc/item/1gm9n38h)
+
+---
+
