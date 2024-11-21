@@ -28,12 +28,14 @@ The Chengdu Positive Child Development (CPCD) survey is a longitudinal study tha
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cpcd.png" title="cpcd" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
 <div class="caption">
-    Paper on the introduction of the cohort:
-    **International Journal of Epidemiology**  
-  *Volume 51, Issue 3, June 2022, Pages e95–e107*  
-  [https://doi.org/10.1093/ije/dyab237](https://doi.org/10.1093/ije/dyab237)
+    Paper on the introduction of the cohort: <br>
+    <b>Li Zhao</b>, <b>Daniel T L Shek</b>, <b>Kun Zou</b>, <b>Yalin Lei</b>, <b>Peng Jia</b>, 
+    <b>Cohort Profile: Chengdu Positive Child Development (CPCD) survey</b>, 
+    <i>International Journal of Epidemiology</i>, Volume 51, Issue 3, June 2022, Pages e95–e107, 
+    <a href="https://doi.org/10.1093/ije/dyab237" target="_blank">
+        https://doi.org/10.1093/ije/dyab237
+    </a>
 </div>
 
 ### **My Contributions**
