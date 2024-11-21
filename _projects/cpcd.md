@@ -23,21 +23,8 @@ The Chengdu Positive Child Development (CPCD) survey is a longitudinal study tha
 <div class="caption">
     Fieldwork involved collaboration with multiple schools in Chengdu, ensuring comprehensive data collection across diverse demographics.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cpcd.png" title="cpcd" class="img-fluid rounded z-depth-1" %}
-    </div>
-<div class="caption">
-    Paper on the introduction of the cohort: <br>
-    <b>Li Zhao</b>, <b>Daniel T L Shek</b>, <b>Kun Zou</b>, <b>Yalin Lei</b>, <b>Peng Jia</b>, 
-    <b>Cohort Profile: Chengdu Positive Child Development (CPCD) survey</b>, 
-    <i>International Journal of Epidemiology</i>, Volume 51, Issue 3, June 2022, Pages e95–e107, 
-    <a href="https://doi.org/10.1093/ije/dyab237" target="_blank">
-        https://doi.org/10.1093/ije/dyab237
-    </a>
-</div>
 
----
+
 ### **My Contributions**
 
 - **Project Leadership**: Directed the 5th wave of the survey, including coordination with participating schools and logistical planning.
@@ -52,3 +39,21 @@ The Chengdu Positive Child Development (CPCD) survey is a longitudinal study tha
 
 ### **Publications**
 Findings from the CPCD Survey have contributed to multiple research publications, highlighting the project’s impact on child development research and policy.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cpcd.png" title="cpcd" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="caption">
+    Paper on the introduction of the cohort: <br>
+    <b>Li Zhao</b>, <b>Daniel T L Shek</b>, <b>Kun Zou</b>, <b>Yalin Lei</b>, <b>Peng Jia</b>, 
+    <b>Cohort Profile: Chengdu Positive Child Development (CPCD) survey</b>, 
+    <i>International Journal of Epidemiology</i>, Volume 51, Issue 3, June 2022, Pages e95–e107, 
+    <a href="https://doi.org/10.1093/ije/dyab237" target="_blank">
+        https://doi.org/10.1093/ije/dyab237
+    </a>
+</div>
+
+
+
+
