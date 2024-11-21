@@ -3,7 +3,7 @@ layout: page
 title: Service Leadership through Serving Children and Families with Special Needs
 description: Enhancing leadership through community service in health and education
 img: assets/img/service_activity1.jpg
-importance: 3
+importance: 2
 category: work
 ---
 
@@ -11,7 +11,7 @@ The **Service Leadership through Serving Children and Families with Special Need
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/international_students.jpg" title="Engaging with children during the project" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/teamwork.jpg" title="Engaging with children during the project" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/farewell ceremony.jpg" title="Team collaboration and planning" class="img-fluid rounded z-depth-1" %}
