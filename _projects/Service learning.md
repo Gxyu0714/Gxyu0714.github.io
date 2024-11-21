@@ -4,7 +4,7 @@ title: Service Leadership through Serving Children and Families with Special Nee
 description: Enhancing leadership through community service in health and education
 img: assets/img/service_activity1.jpg
 importance: 2
-category: work
+category: Cohort Survey and Practice
 ---
 
 The **Service Leadership through Serving Children and Families with Special Needs** project focuses on building leadership skills while providing essential support to children and families in need. This interdisciplinary initiative combines education, public health, and social services to create meaningful community impact and develop service-oriented leadership qualities.
