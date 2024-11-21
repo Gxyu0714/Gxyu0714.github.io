@@ -2,7 +2,7 @@
 layout: page
 title: Medical Media Platform
 description: Exploring medical device innovation through media and analysis.
-img: assets/img/medrobot.jpg
+img: assets/img/medrobot.png
 importance: 1
 category: Media and other fun stuff
 ---
@@ -10,8 +10,6 @@ category: Media and other fun stuff
 ### What Fun Things Did I Do?
 
 As an **Editor** for [MedRobot](https://www.medrobot.tech/news), I have been actively contributing to the dissemination of knowledge and insights in the medical robotics industry. This role allows me to combine technical expertise with creative communication, engaging a global audience on the latest advancements in medical devices.
-
----
 
 ### Building an Audience
 - Authored and reviewed articles on medical devices and policy trends, driving the growth of the **"Device Market" WeChat public account** from **0** to over **13,864 followers**.  
