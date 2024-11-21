@@ -19,11 +19,12 @@ social: true # includes social icons at the bottom of the page
   <h1>Welcome to My Website!</h1>
   <p>Hello, and welcome to my website! My name is <strong>Xinyu Guo</strong>, and I’m thrilled to share my journey and aspirations with you.</p>
   <p>
-   As a dedicated Master's student in Health Policy and Management at <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, my research is conducted under the guidance of mentors from various disciplines: <a href="https://www.wcfh.com.cn/wshz_ksdhh_ksdh_wszcyglxx_szjs/364/040060600000411.html" target="_blank">Professor Li Zhao</a> and <a href="https://www.wcfh.com.cn/wsxs_szdw2_szdw/040013100000524.html" target="_blank">Professor Lihua Jiang</a> from the West China School of Public Health and West China Fourth Hospital; <a href="https://cs.scu.edu.cn/info/1285/13594.htm" target="_blank">Professor Li Lu</a> from the College of Computer Science; and <a href="https://www.polyu.edu.hk/en/apss/people/academic-staff/prof-shek-tan-lei-daniel/" target="_blank">Professor Daniel T.L. Shek</a> from the Department of Applied Social Sciences at PolyU. I am passionate about applying computational health, causal inference, and AI-driven solutions to address challenges in healthcare and public health.
-    With a strong foundation in data analysis and interdisciplinary studies, I’m eager to contribute to innovative and meaningful research.
+   As a dedicated Master's student in Health Policy and Management at <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, my research is conducted under the guidance of mentors from various disciplines: <a href="https://www.wcfh.com.cn/wshz_ksdhh_ksdh_wszcyglxx_szjs/364/040060600000411.html" target="_blank">Professor Li Zhao</a> and <a href="https://www.wcfh.com.cn/wsxs_szdw2_szdw/040013100000524.html" target="_blank">Professor Lihua Jiang</a> from the West China School of Public Health and West China Fourth Hospital; <a href="https://cs.scu.edu.cn/info/1285/13594.htm" target="_blank">Professor Li Lu</a> from the College of Computer Science; and <a href="https://www.polyu.edu.hk/en/apss/people/academic-staff/prof-shek-tan-lei-daniel/" target="_blank">Professor Daniel T.L. Shek</a> from the Department of Applied Social Sciences at PolyU. 
+    
+    I am passionate about applying computational health, causal inference, and AI-driven solutions to address challenges in healthcare and public health.
   </p>
   <p>
-    I am actively seeking a <strong>PhD position for Fall 2025</strong> or a <strong>Research Assistant role</strong>, where I can collaborate with like-minded individuals to drive positive change.
+    I am actively seeking a <strong>PhD position for Fall 2025</strong> or a <strong>Research Assistant role</strong>,  where I can learn from and collaborate with great researchers to contribute to innovative and meaningful research in the field of health.
     Thank you for visiting—I look forward to connecting and exploring exciting opportunities together!
   </p>
   
