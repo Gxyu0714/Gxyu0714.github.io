@@ -15,7 +15,7 @@ As an **Editor** for [MedRobot](https://www.medrobot.tech/news), I have been act
 - Authored and reviewed articles on medical devices and policy trends, driving the growth of the **"Device Market" WeChat public account** from **0** to over **13,864 followers**.  
   Welcome to scan the QR code to follow the WeChat public account:  
   <a href="assets/img/DM.jpg" target="_blank">
-      <img src="assets/img/qr_icon.png" alt="WeChat QR Code" style="width: 50px; height: 50px;" title="Click to view QR code">
+      <img src="assets/img/DM.jpg" alt="WeChat QR Code" style="width: 50px; height: 50px;" title="Click to view QR code">
   </a>
 
 ---
