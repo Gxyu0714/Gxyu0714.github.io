@@ -5,7 +5,6 @@ description: Investigating child development and well-being in Chengdu
 img: assets/img/cpcd.png
 importance: 1
 category: work
-giscus_comments: true
 ---
 
 The Chengdu Positive Child Development (CPCD) survey is a longitudinal study that has completed its 5th round of follow-up surveys. The project aims to understand the development, mental health and well-being of children in Chengdu, China. I was a participant in the fourth round of the project and co-leader of the fifth round.
@@ -49,5 +48,4 @@ The Chengdu Positive Child Development (CPCD) survey is a longitudinal study tha
 - Provided data-driven recommendations for improving child development programs.
 
 ### **Publications**
-
 Findings from the CPCD Survey have contributed to multiple research publications, highlighting the project’s impact on child development research and policy.
