@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
     I am passionate about applying computational health, causal inference, and AI-driven solutions to address challenges in healthcare and public health.
   </p>
   <p>
-    I am actively seeking a <strong>PhD position for Fall 2025</strong> or a <strong>Research Assistant role</strong>,  where I can learn from and collaborate with great researchers to contribute to innovative and meaningful research in the field of health.
+    I am actively seeking a <strong>PhD position for Fall 2025 </strong> (or later) or a <strong>Research Assistant role</strong> beginning after June 2025—or remotely available now,  where I can learn from and collaborate with great researchers to contribute to innovative and meaningful research in the field of health.
     Thank you for visiting—I look forward to connecting and exploring exciting opportunities together!
   </p>
   
