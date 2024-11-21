@@ -3,8 +3,8 @@ layout: page
 title: Dynamic Causal Graph-Based Learning
 description: Predicting Cognitive Impairment in Middle-Aged and Older Adults using a novel approach.
 img: assets/img/DAG1.png
-importance: 1
-category: work
+importance: 2
+category: Research
 ---
 
 ### Overview
