@@ -2,9 +2,9 @@
 layout: page
 title: Factors and Pathways of Non-Suicidal Self-Injury in Children
 description: Insights from computational causal analysis on the factors contributing to non-suicidal self-injury in children.
-img: assets/img/nssi.jpg
+img: assets/img/NSSI.png
 importance: 1
-category: work
+category: Research
 ---
 
 ### Overview
