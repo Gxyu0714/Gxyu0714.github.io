@@ -26,17 +26,35 @@ social: true # includes social icons at the bottom of the page
     I am actively seeking a <strong>PhD position for Fall 2025</strong> or a <strong>Research Assistant role</strong>, where I can collaborate with like-minded individuals to drive positive change.
     Thank you for visiting—I look forward to connecting and exploring exciting opportunities together!
   </p>
+  
+  <h2>Research Interests</h2>
+<p>
+  My research spans the intersection of artificial intelligence, causal inference, and public health, with specific interests in:
+</p>
+<ul>
+  <li><strong>Causal Discovery and Inference:</strong> Exploring methods to identify causal relationships in complex datasets.</li>
+  <li><strong>Mental Health and Behavioral Studies:</strong> Analyzing factors contributing to non-suicidal self-injury (NSSI) and cognitive impairments.</li>
+  <li><strong>AI for Public Health:</strong> Developing AI-driven models for predictive analytics and decision-making in healthcare.</li>
+  <li><strong>Longitudinal Data Analysis:</strong> Uncovering insights from multi-year datasets to inform evidence-based interventions.</li>
+</ul>
 
 
 
+  ### Education
 
+- **Sichuan University, West China School of Public Health and West China Fourth Hospital**  
+  *Master of Health Policy and Management*  
+  Chengdu, China  
+  *09/2022 – 06/2025 (Expected)*  
 
-## Education
+- **Nanjing University of Traditional Chinese Medicine**  
+  *Bachelor of E-Commerce*  
+  Nanjing, China  
+  *09/2018 – 06/2022*  
 
-- **Master of Health Policy and Management** (Expected 2025)  
-  Sichuan University, West China Fourth Hospital, Chengdu, China
-- **Bachelor of E-Commerce** (2022)  
-  Nanjing University of Traditional Chinese Medicine, Nanjing, China
-- **International Organizations Program** (Summer 2023)  
-  Cambridge University, Girton College, Cambridge, UK
+- **Cambridge University, Girton College**  
+  *International Organizations Program*  
+  Cambridge, UK  
+  *07/2023 – 08/2023*
+
   
