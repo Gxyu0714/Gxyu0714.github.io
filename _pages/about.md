@@ -38,23 +38,24 @@ social: true # includes social icons at the bottom of the page
   <li><strong>Longitudinal Data Analysis:</strong> Uncovering insights from multi-year datasets to inform evidence-based interventions.</li>
 </ul>
 
+<h2>Education</h2>
+<ul>
+    <strong>Sichuan University, West China School of Public Health and West China Fourth Hospital</strong><br>
+    <em>Master of Health Policy and Management</em><br>
+    Chengdu, China &nbsp; <em>09/2022 – 06/2025 (Expected)</em>
+  
+    <strong>Nanjing University of Traditional Chinese Medicine</strong><br>
+    <em>Bachelor of E-Commerce</em><br>
+    Nanjing, China &nbsp; <em>09/2018 – 06/2022</em>
+
+    <strong>Cambridge University, Girton College</strong><br>
+    <em>International Organizations Program</em><br>
+    Cambridge, UK &nbsp; <em>07/2023 – 08/2023</em>
+
+</ul>
 
 
-  ### Education
 
-- **Sichuan University, West China School of Public Health and West China Fourth Hospital**  
-  *Master of Health Policy and Management*  
-  Chengdu, China  
-  *09/2022 – 06/2025 (Expected)*  
 
-- **Nanjing University of Traditional Chinese Medicine**  
-  *Bachelor of E-Commerce*  
-  Nanjing, China  
-  *09/2018 – 06/2022*  
-
-- **Cambridge University, Girton College**  
-  *International Organizations Program*  
-  Cambridge, UK  
-  *07/2023 – 08/2023*
 
   
