@@ -129,7 +129,7 @@ subtitle:
       <br>
       <a href="https://github.com/Gxyu0714">code</a>
       /
-      <a href="{{ '/assets/img/Workflow.pdf' | relative_url }}">paper</a>
+      <a href="{{ '/assets/img/Workflow.jpg' | relative_url }}">paper</a>
       <p>
         By training a latent diffusion model to directly output 3D Gaussians we enable fast (~6 seconds on a single GPU) feed-forward 3D scene generation.
       </p>
@@ -158,7 +158,7 @@ subtitle:
         
    <div class="research-item">
             <div class="research-image">
-                <img src="{{ '/assets/img/research/causal_analysis.png' | relative_url }}" alt="Causal Analysis Research">
+                <img src="{{ '/assets/img/research/NSSI Causal.png' | relative_url }}" alt="Causal Analysis Research">
             </div>
             <div class="research-content">
                 <a href="#" class="papertitle">Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis</a>
@@ -178,7 +178,7 @@ subtitle:
 
   <div class="research-item">
             <div class="research-image">
-                <img src="{{ '/assets/img/research/covid_study.png' | relative_url }}" alt="COVID-19 Study">
+                <img src="{{ '/assets/img/research/Radar chart.png' | relative_url }}" alt="COVID-19 Study">
             </div>
             <div class="research-content">
                 <a href="#" class="papertitle">Life changes and symptoms of depression and anxiety among Chinese children and adolescents before, during, and after the COVID-19 pandemic lockdown: a combination of cross-sectional, longitudinal, and clustering studies</a>
@@ -198,7 +198,7 @@ subtitle:
 
   <div class="research-item">
             <div class="research-image">
-                <img src="{{ '/assets/img/research/cognitive_impairment.png' | relative_url }}" alt="Cognitive Impairment Research">
+                <img src="{{ '/assets/img/research/Dynamic Causal.png' | relative_url }}" alt="Cognitive Impairment Research">
             </div>
             <div class="research-content">
                 <a href="#" class="papertitle">Dynamic Causal Graph-Based Learning Approach for Predicting Cognitive Impairment in Middle-Aged and Older Adults</a>
