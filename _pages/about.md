@@ -115,7 +115,7 @@ subtitle:
 
   <div class="research-item">
     <div class="research-image">
-      <img src="{{ '/assets/img/research/NSSI.png' | relative_url }}" alt="NSSI Research">
+      <img src="{{ '/assets/img/research/Workflow.pdf' | relative_url }}" alt="NSSI Research">
     </div>
     <div class="research-content">
       <a href="https://szymanowiczs.github.io/bolt3d">
