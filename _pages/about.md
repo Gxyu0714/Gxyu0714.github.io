@@ -46,7 +46,7 @@ subtitle:
     margin-bottom: 20px;
   }
   .research-item {
-    background-color: #b4d3ed;
+    background-color: transparent;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -91,9 +91,9 @@ subtitle:
       <!-- <p class="name">Xinyu Guo</p> -->
       <p>
         I'm a rising research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
-        Previously, I got my master degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>.
+        Previously, I got my master's degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>.
       </p>
-      <p style="text-align:center">
+      <p style="text-align: center">
         <a href="mailto:guoxinyu714@stu.scu.edu.cn">Email</a> &nbsp;/&nbsp;
         <a href="{{ '/assets/pdf/CV_Xinyu.pdf' | relative_url }}">CV</a> &nbsp;/&nbsp;
         <a href="https://scholar.google.com/citations?user=cDDGr3sAAAAJ&hl=en">Scholar</a> &nbsp;/&nbsp;
@@ -130,8 +130,8 @@ subtitle:
       <a href="https://github.com/Gxyu0714">code</a>
       /
       <a href="{{ '/assets/img/Workflow.jpg' | relative_url }}">paper</a>
-      <p>
-        By training a latent diffusion model to directly output 3D Gaussians we enable fast (~6 seconds on a single GPU) feed-forward 3D scene generation.
+      <p> 
+        We introduce a progressive prediction framework utilizing four waves of longitudinal data and seven machine learning algorithms to predict NSSI risk among 3,483 Chinese adolescents. 
       </p>
     </div>
   </div>
