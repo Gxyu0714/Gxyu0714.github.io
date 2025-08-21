@@ -68,7 +68,7 @@ subtitle:
     color: #333;
     text-decoration: none;
   }
-  .papertitle:hover {
+  .papertitle: hover {
     color: #0066cc;
   }
   @media (max-width: 768px) {
@@ -94,7 +94,7 @@ subtitle:
         Previously, I got my master's degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>.
       </p>
       <p style="text-align: center">
-        <a href="mailto:guoxinyu714@stu.scu.edu.cn">Email</a> &nbsp;/&nbsp;
+        <a href="mailto:xinyu714.guo@polyu.edu.hk">Email</a> &nbsp;/&nbsp;
         <a href="{{ '/assets/pdf/CV_Xinyu.pdf' | relative_url }}">CV</a> &nbsp;/&nbsp;
         <a href="https://scholar.google.com/citations?user=cDDGr3sAAAAJ&hl=en">Scholar</a> &nbsp;/&nbsp;
         <a href="https://x.com/XinyuGuo1654050">Twitter</a> &nbsp;/&nbsp;
