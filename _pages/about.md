@@ -129,7 +129,7 @@ subtitle:
       <br>
       <a href="https://github.com/Gxyu0714">code</a>
       /
-      <a href="{{ '/assets/pdf/NSSI_predict.pdf' | relative_url }}">paper</a>
+      <a href="{{ '/assets/img/Workflow.pdf' | relative_url }}">paper</a>
       <p>
         By training a latent diffusion model to directly output 3D Gaussians we enable fast (~6 seconds on a single GPU) feed-forward 3D scene generation.
       </p>
