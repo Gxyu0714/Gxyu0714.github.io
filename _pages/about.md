@@ -97,8 +97,8 @@ subtitle:
         <a href="mailto:guoxinyu714@stu.scu.edu.cn">Email</a> &nbsp;/&nbsp;
         <a href="{{ '/assets/pdf/CV_Xinyu.pdf' | relative_url }}">CV</a> &nbsp;/&nbsp;
         <a href="https://scholar.google.com/citations?user=cDDGr3sAAAAJ&hl=en">Scholar</a> &nbsp;/&nbsp;
-        <a href="https://x.com/etherhypothesis">Twitter</a> &nbsp;/&nbsp;
-        <a href="https://www.linkedin.com/in/xinyu-guo-6680332b1/">LinkedIn</a>
+        <a href="https://x.com/XinyuGuo1654050">Twitter</a> &nbsp;/&nbsp;
+        <a href="https://www.linkedin.com/in/xinyuguo714/">LinkedIn</a>
       </p>
     </div>
     <div class="profile-image">
@@ -135,6 +135,87 @@ subtitle:
       </p>
     </div>
   </div>
+
+  <div class="research-item">
+            <div class="research-image">
+                <img src="{{ '/assets/img/research/CRISP.png' | relative_url }}" alt="CRISP Framework">
+            </div>
+            <div class="research-content">
+                <a href="#" class="papertitle">CRISP: A causal relationships-guided deep learning framework for advanced ICU mortality prediction</a>
+                <br>
+                Linna Wang, <strong>Xinyu Guo</strong>, Haoyue Shi, and 7 more authors
+                <br>
+                <em>BMC Medical Informatics and Decision Making</em>, 2025
+                <br>
+                <a href="#">code</a>
+                /
+                <a href="#">paper</a>
+                <p>
+                    A novel deep learning framework that leverages causal relationships to improve mortality prediction in intensive care units, demonstrating superior performance over traditional approaches.
+                </p>
+            </div>
+        </div>
+
+        <!-- 2024 Publications -->
+        <div class="research-item">
+            <div class="research-image">
+                <img src="{{ '/assets/img/research/causal_analysis.png' | relative_url }}" alt="Causal Analysis Research">
+            </div>
+            <div class="research-content">
+                <a href="#" class="papertitle">Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis</a>
+                <br>
+                <strong>Xinyu Guo</strong>, Linna Wang, Zhenchao Li, and 4 more authors
+                <br>
+                <em>Frontiers in Public Health</em>, 2024
+                <br>
+                <a href="#">code</a>
+                /
+                <a href="#">paper</a>
+                <p>
+                    Utilizing computational causal analysis to identify key factors and pathways contributing to non-suicidal self-injury behaviors in children, providing insights for intervention strategies.
+                </p>
+            </div>
+        </div>
+
+        <div class="research-item">
+            <div class="research-image">
+                <img src="{{ '/assets/img/research/covid_study.png' | relative_url }}" alt="COVID-19 Study">
+            </div>
+            <div class="research-content">
+                <a href="#" class="papertitle">Life changes and symptoms of depression and anxiety among Chinese children and adolescents before, during, and after the COVID-19 pandemic lockdown: a combination of cross-sectional, longitudinal, and clustering studies</a>
+                <br>
+                Yu Zeng, Jie Song, Yanan Zhang, and 6 more authors
+                <br>
+                <em>European Child & Adolescent Psychiatry</em>, 2024
+                <br>
+                <a href="#">code</a>
+                /
+                <a href="#">paper</a>
+                <p>
+                    A comprehensive analysis of mental health changes in Chinese youth during the COVID-19 pandemic, combining multiple study designs to understand the impact of lockdown measures on depression and anxiety symptoms.
+                </p>
+            </div>
+        </div>
+
+        <div class="research-item">
+            <div class="research-image">
+                <img src="{{ '/assets/img/research/cognitive_impairment.png' | relative_url }}" alt="Cognitive Impairment Research">
+            </div>
+            <div class="research-content">
+                <a href="#" class="papertitle">Dynamic Causal Graph-Based Learning Approach for Predicting Cognitive Impairment in Middle-Aged and Older Adults</a>
+                <br>
+                Linna Wang, <strong>Xinyu Guo</strong>, Yunyi Zhou, and 5 more authors
+                <br>
+                <em>In Proceedings of the Annual Meeting of the Cognitive Science Society</em>, 2024
+                <br>
+                <a href="#">code</a>
+                /
+                <a href="#">paper</a>
+                <p>
+                    A dynamic causal graph-based machine learning approach for predicting cognitive impairment in aging populations, incorporating temporal relationships and causal mechanisms for improved accuracy.
+                </p>
+            </div>
+        </div>
 
   <div style="margin-bottom: 30px;">
     <h2>Project</h2>
