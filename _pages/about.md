@@ -115,7 +115,7 @@ subtitle:
 
   <div class="research-item">
     <div class="research-image">
-      <img src="{{ '/assets/img/research/Workflow.png' | relative_url }}" alt="NSSI Research">
+      <img src="{{ '/assets/img/research/Workflow.jpg' | relative_url }}" alt=" NSSI Research">
     </div>
     <div class="research-content">
       <a href="https://szymanowiczs.github.io/bolt3d">
@@ -149,7 +149,7 @@ subtitle:
                 <br>
                 <a href="#">code</a>
                 /
-                <a href="#">paper</a>
+                 <a href="{{ 'https://link.springer.com/article/10.1186/s12911-025-02981-1' | relative_url }}">paper</a>
                 <p>
                     A novel deep learning framework that leverages causal relationships to improve mortality prediction in intensive care units, demonstrating superior performance over traditional approaches.
                 </p>
@@ -158,7 +158,7 @@ subtitle:
         
    <div class="research-item">
             <div class="research-image">
-                <img src="{{ '/assets/img/research/NSSI Causal.png' | relative_url }}" alt="Causal Analysis Research">
+                <img src="{{ '/assets/img/research/NSSI Causal.jpg' | relative_url }}" alt="Causal Analysis Research">
             </div>
             <div class="research-content">
                 <a href="#" class="papertitle">Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis</a>
@@ -169,7 +169,7 @@ subtitle:
                 <br>
                 <a href="#">code</a>
                 /
-                <a href="#">paper</a>
+                <a href="{{ 'https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1305746/full' | relative_url }}">paper</a>
                 <p>
                     Utilizing computational causal analysis to identify key factors and pathways contributing to non-suicidal self-injury behaviors in children, providing insights for intervention strategies.
                 </p>
@@ -187,9 +187,7 @@ subtitle:
                 <br>
                 <em>European Child & Adolescent Psychiatry</em>, 2024
                 <br>
-                <a href="#">code</a>
-                /
-                <a href="#">paper</a>
+                <a href="{{ 'https://link.springer.com/article/10.1007/s00787-024-02533-4' | relative_url }}">paper</a>
                 <p>
                     A comprehensive analysis of mental health changes in Chinese youth during the COVID-19 pandemic, combining multiple study designs to understand the impact of lockdown measures on depression and anxiety symptoms.
                 </p>
@@ -198,7 +196,7 @@ subtitle:
 
   <div class="research-item">
             <div class="research-image">
-                <img src="{{ '/assets/img/research/Dynamic Causal.png' | relative_url }}" alt="Cognitive Impairment Research">
+                <img src="{{ '/assets/img/research/Dynamic Causal.PNG' | relative_url }}" alt="Cognitive Impairment Research">
             </div>
             <div class="research-content">
                 <a href="#" class="papertitle">Dynamic Causal Graph-Based Learning Approach for Predicting Cognitive Impairment in Middle-Aged and Older Adults</a>
@@ -209,7 +207,7 @@ subtitle:
                 <br>
                 <a href="#">code</a>
                 /
-                <a href="#">paper</a>
+                <a href="{{ 'https://escholarship.org/uc/item/1gm9n38h' | relative_url }}">paper</a>
                 <p>
                     A dynamic causal graph-based machine learning approach for predicting cognitive impairment in aging populations, incorporating temporal relationships and causal mechanisms for improved accuracy.
                 </p>
