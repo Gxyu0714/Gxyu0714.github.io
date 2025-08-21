@@ -46,7 +46,7 @@ subtitle:
     margin-bottom: 20px;
   }
   .research-item {
-    background-color: #ffffd0;
+    background-color: #b4d3ed;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -115,7 +115,7 @@ subtitle:
 
   <div class="research-item">
     <div class="research-image">
-      <img src="{{ '/assets/img/research/Workflow.pdf' | relative_url }}" alt="NSSI Research">
+      <img src="{{ '/assets/img/research/Workflow.png' | relative_url }}" alt="NSSI Research">
     </div>
     <div class="research-content">
       <a href="https://szymanowiczs.github.io/bolt3d">
