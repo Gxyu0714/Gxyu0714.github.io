@@ -88,7 +88,7 @@ subtitle:
 <div class="research-container">
   <div class="profile-section">
     <div class="profile-text">
-      <p class="name">Xinyu Guo</p>
+      <!-- <p class="name">Xinyu Guo</p> -->
       <p>
         I'm a rising research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
         Previously, I got my master degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>.
@@ -135,6 +135,38 @@ subtitle:
       </p>
     </div>
   </div>
+
+  <div style="margin-bottom: 30px;">
+    <h2>Project</h2>
+    <p>
+      Several projects that I lead are listed below:
+    </p>
+  </div>
+
+  <div class="research-item">
+    <div class="research-image">
+      <img src="{{ '/assets/img/research/NSSI.png' | relative_url }}" alt="NSSI Research">
+    </div>
+    <div class="research-content">
+      <a href="https://gxyu0714.github.io/projects/cpcd/">
+        <span class="papertitle">Chengdu Positive Child Development (CPCD) Survey</span>
+      </a>
+      <br>
+      <strong>Xinyu Guo</strong>,
+      <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>
+      <br>
+      <em>Journal of Affective Disorders</em>, 2025
+      <br>
+      <a href="https://gxyu0714.github.io/projects/cpcd/">Project Description</a>
+      <p>
+        I Directed the 5th wave of the survey, including coordination with participating schools and logistical planning and managed field surveys, data entry using Epidata, and ensured accuracy in preliminary data processing.
+      </p>
+    </div>
+  </div>
+
+
+
+
 
   <br>
   <p style="text-align:right;font-size:small;">
