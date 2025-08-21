@@ -4,59 +4,140 @@ title: about
 permalink: /
 subtitle: 
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>guoxinyu00714@gmail.com</p>
-    <p>Pronouns: she/her</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>guoxinyu00714@gmail.com</p>
+#     <p>Pronouns: she/her</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+# news: true # includes a list of news items
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+# social: true # includes social icons at the bottom of the page
 ---
-  <h1>Welcome to My Website!</h1>
-  <p>Hello, and welcome to my website! My name is <strong>Xinyu Guo</strong>, and I’m thrilled to share my journey and aspirations with you.</p>
-  <p>
-   As a dedicated Master's student in Health Policy and Management at <a href="https://en.scu.edu.cn/" target="_blank">Sichuan University</a>, my research is conducted under the guidance of mentors from various disciplines: <a href="https://www.wcfh.com.cn/wshz_ksdhh_ksdh_wszcyglxx_szjs/364/040060600000411.html" target="_blank">Professor Li Zhao</a> and <a href="https://www.wcfh.com.cn/wsxs_szdw2_szdw/040013100000524.html" target="_blank">Professor Lihua Jiang</a> from the West China School of Public Health and West China Fourth Hospital; <a href="https://cs.scu.edu.cn/info/1285/13594.htm" target="_blank">Professor Li Lu</a> from the College of Computer Science; and <a href="https://www.polyu.edu.hk/en/apss/people/academic-staff/prof-shek-tan-lei-daniel/" target="_blank">Professor Daniel T.L. Shek</a> from the Department of Applied Social Sciences at PolyU. 
-    
-    I am passionate about applying computational health, causal inference, and AI-driven solutions to address challenges in healthcare and public health.
+
+<style>
+  .research-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .profile-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    gap: 30px;
+  }
+  .profile-text {
+    flex: 1;
+  }
+  .profile-image {
+    flex: 0 0 200px;
+  }
+  .profile-image img {
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .name {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .research-item {
+    background-color: #ffffd0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    display: flex;
+    gap: 20px;
+  }
+  .research-image {
+    flex: 0 0 160px;
+  }
+  .research-image img {
+    width: 100%;
+    height: auto;
+  }
+  .research-content {
+    flex: 1;
+  }
+  .papertitle {
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+  }
+  .papertitle:hover {
+    color: #0066cc;
+  }
+  @media (max-width: 768px) {
+    .profile-section {
+      flex-direction: column;
+      text-align: center;
+    }
+    .research-item {
+      flex-direction: column;
+    }
+    .research-image {
+      align-self: center;
+    }
+  }
+</style>
+
+<div class="research-container">
+  <div class="profile-section">
+    <div class="profile-text">
+      <p class="name">Xinyu Guo</p>
+      <p>
+        I'm a rising research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
+        Previously, I got my master degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>.
+      </p>
+      <p style="text-align:center">
+        <a href="mailto:guoxinyu714@stu.scu.edu.cn">Email</a> &nbsp;/&nbsp;
+        <a href="{{ '/assets/pdf/CV_Xinyu.pdf' | relative_url }}">CV</a> &nbsp;/&nbsp;
+        <a href="https://scholar.google.com/citations?user=cDDGr3sAAAAJ&hl=en">Scholar</a> &nbsp;/&nbsp;
+        <a href="https://x.com/etherhypothesis">Twitter</a> &nbsp;/&nbsp;
+        <a href="https://www.linkedin.com/in/xinyu-guo-6680332b1/">LinkedIn</a>
+      </p>
+    </div>
+    <div class="profile-image">
+      <img src="{{ '/assets/img/research/Xinyu.png' | relative_url }}" alt="Xinyu Guo">
+    </div>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <h2>Research</h2>
+    <p>
+      I'm interested in leveraging compute, data, and statistics to understand public health.
+    </p>
+  </div>
+
+  <div class="research-item">
+    <div class="research-image">
+      <img src="{{ '/assets/img/research/NSSI.png' | relative_url }}" alt="NSSI Research">
+    </div>
+    <div class="research-content">
+      <a href="https://szymanowiczs.github.io/bolt3d">
+        <span class="papertitle">Longitudinal Machine Learning Prediction of Non-Suicidal Self-Injury Among Chinese Adolescents: A Prospective Multicenter Cohort Study</span>
+      </a>
+      <br>
+      <strong>Xinyu Guo</strong>,
+      <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>
+      <br>
+      <em>Journal of Affective Disorders</em>, 2025
+      <br>
+      <a href="https://github.com/Gxyu0714">code</a>
+      /
+      <a href="{{ '/assets/pdf/NSSI_predict.pdf' | relative_url }}">paper</a>
+      <p>
+        By training a latent diffusion model to directly output 3D Gaussians we enable fast (~6 seconds on a single GPU) feed-forward 3D scene generation.
+      </p>
+    </div>
+  </div>
+
+  <br>
+  <p style="text-align:right;font-size:small;">
+    Template from <a href="https://jonbarron.info/">Jon Barron</a>.
   </p>
-  <p>
-    I am actively seeking a <strong>PhD position for Fall 2025 </strong> (or later) or a <strong>Research Assistant role</strong> beginning after June 2025—or remotely available now,  where I can learn from and collaborate with great researchers to contribute to innovative and meaningful research in the field of health.
-    Thank you for visiting—I look forward to connecting and exploring exciting opportunities together!
-  </p>
-  
-  <h2>Research Interests</h2>
-<p>
-  My research spans the intersection of artificial intelligence, causal inference, and public health, with specific interests in:
-</p>
-<ul>
-  <li><strong>Causal Discovery and Inference:</strong> Exploring methods to identify causal relationships in complex datasets.</li>
-  <li><strong>Mental Health and Behavioral Studies:</strong> Analyzing factors contributing to non-suicidal self-injury (NSSI) and cognitive impairments.</li>
-  <li><strong>AI for Public Health:</strong> Developing AI-driven models for predictive analytics and decision-making in healthcare.</li>
-  <li><strong>Longitudinal Data Analysis:</strong> Uncovering insights from multi-year datasets to inform evidence-based interventions.</li>
-</ul>
-
-<h2>Education</h2>
-<ul>
-  <li>
-    <strong>Sichuan University, West China School of Public Health and West China Fourth Hospital</strong><br>
-    Master of Health Policy and Management (09/2022 – 06/2025 Expected)
-  </li>
-  <li>
-    <strong>Nanjing University of Traditional Chinese Medicine</strong><br>
-    Bachelor of E-Commerce (09/2018 – 06/2022)
-  </li>
-  <li>
-    <strong>Cambridge University, Girton College</strong><br>
-    International Organizations Program (07/2023 – 08/2023)
-  </li>
-</ul>
-
-
-
-
-
-  
+</div>
