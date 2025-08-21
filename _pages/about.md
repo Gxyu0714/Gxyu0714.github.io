@@ -155,9 +155,8 @@ subtitle:
                 </p>
             </div>
         </div>
-
-        <!-- 2024 Publications -->
-        <div class="research-item">
+        
+   <div class="research-item">
             <div class="research-image">
                 <img src="{{ '/assets/img/research/causal_analysis.png' | relative_url }}" alt="Causal Analysis Research">
             </div>
@@ -177,7 +176,7 @@ subtitle:
             </div>
         </div>
 
-        <div class="research-item">
+  <div class="research-item">
             <div class="research-image">
                 <img src="{{ '/assets/img/research/covid_study.png' | relative_url }}" alt="COVID-19 Study">
             </div>
@@ -197,7 +196,7 @@ subtitle:
             </div>
         </div>
 
-        <div class="research-item">
+  <div class="research-item">
             <div class="research-image">
                 <img src="{{ '/assets/img/research/cognitive_impairment.png' | relative_url }}" alt="Cognitive Impairment Research">
             </div>
