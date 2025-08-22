@@ -110,6 +110,7 @@ subtitle:
     <h2>Research</h2>
     <p>
       I'm interested in leveraging compute, data, and statistics to understand public health.
+      <small style="opacity: 0.7;">(<a href="{{ '/internal-docs/' | relative_url }}">internal docs</a>)</small>
     </p>
   </div>
 
@@ -248,6 +249,6 @@ subtitle:
 
   <br>
   <p style="text-align:right;font-size:small;">
-    Template from <a href="https://jonbarron.info/">Jon Barron</a>.
+    Template from <a href="https://jonbarron.info/">Jon Barron</a>. | <a href="{{ '/hidden-page/' | relative_url }}">🔍</a>
   </p>
 </div>
