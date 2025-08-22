@@ -5,6 +5,7 @@ description: Insights from computational causal analysis on the factors contribu
 img: assets/img/NSSI1.png
 importance: 1
 category: Research
+nav: false
 ---
 
 ### Overview
