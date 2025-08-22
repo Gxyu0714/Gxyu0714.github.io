@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational causality to discover factors and pathways of NSSI in children
-permalink: /projects/NSSI-Dev
+permalink: /projects/NSSI_Causal
 category: Research
 nav: false
 ---
