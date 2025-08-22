@@ -161,7 +161,7 @@ subtitle:
                 <img src="{{ '/assets/img/research/NSSI Causal.jpg' | relative_url }}" alt="Causal Analysis Research">
             </div>
             <div class="research-content">
-                <a href="#" class="papertitle">Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis</a>
+                <a href="https://gxyu0714.github.io/projects/NSSI_Causal" class="papertitle">Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis</a>
                 <br>
                 <strong>Xinyu Guo</strong>, Linna Wang, Zhenchao Li, and 4 more authors
                 <br>
@@ -181,7 +181,7 @@ subtitle:
                 <img src="{{ '/assets/img/research/Radar chart.png' | relative_url }}" alt="COVID-19 Study">
             </div>
             <div class="research-content">
-                <a href="#" class="papertitle">Life changes and symptoms of depression and anxiety among Chinese children and adolescents before, during, and after the COVID-19 pandemic lockdown: a combination of cross-sectional, longitudinal, and clustering studies</a>
+                <a href="https://gxyu0714.github.io/projects/Covid19_Mental%20Health" class="papertitle">Life changes and symptoms of depression and anxiety among Chinese children and adolescents before, during, and after the COVID-19 pandemic lockdown: a combination of cross-sectional, longitudinal, and clustering studies</a>
                 <br>
                 Yu Zeng, Jie Song, Yanan Zhang, and 6 more authors
                 <br>
