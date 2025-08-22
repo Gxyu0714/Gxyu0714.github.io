@@ -5,6 +5,7 @@ description: Exploring the impact of COVID-19 lockdowns on the mental health of 
 img: assets/img/DA.jpg
 importance: 3
 category: Research
+nav: false
 ---
 
 ### Research Overview
