@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Dynamic Causal Graph-Based Learning
+permalink: /projects/Cog_Dynamic Causal
 category: Research
+nav: false
 ---
 
 ### Overview
