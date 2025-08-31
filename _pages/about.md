@@ -122,14 +122,14 @@ subtitle:
         <span class="papertitle">Longitudinal Machine Learning Prediction of Non-Suicidal Self-Injury Among Chinese Adolescents: A Prospective Multicenter Cohort Study</span>
       </a>
       <br>
-      <strong>Xinyu Guo</strong>,
+      <strong>Xinyu Guo</strong>, ... &
       <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>
       <br>
       <em>Journal of Affective Disorders</em>, 2025
       <br>
       <a href="https://github.com/Gxyu0714">code</a>
       /
-      <a href="{{ '/assets/img/Workflow.jpg' | relative_url }}">paper</a>
+      <a href="{{ 'https://doi.org/10.1016/j.jad.2025.120110' | relative_url }}">paper</a>
       <p> 
         We introduce a progressive prediction framework utilizing four waves of longitudinal data and seven machine learning algorithms to predict NSSI risk among 3,483 Chinese adolescents. 
       </p>
