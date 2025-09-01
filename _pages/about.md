@@ -109,7 +109,7 @@ subtitle:
   <div style="margin-bottom: 30px;">
     <h2>Research</h2>
     <p>
-      I'm interested in leveraging compute, data, and statistics to understand public health.
+      I'm interested in leveraging compute, data, and statistics to understand public and mental health.
     </p>
   </div>
 
@@ -127,7 +127,7 @@ subtitle:
       <br>
       <em>Journal of Affective Disorders</em>, 2025
       <br>
-      <a href="https://github.com/Gxyu0714">code</a>
+      <a href="https://github.com/Gxyu0714/LongitudinalPredictor">code</a>
       /
       <a href="{{ 'https://doi.org/10.1016/j.jad.2025.120110' | relative_url }}">paper</a>
       <p> 
