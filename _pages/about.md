@@ -113,7 +113,7 @@ subtitle:
     </p>
   </div>
 
-<!-- First Publication: Longitudinal NSSI Prediction -->
+<!-- 1 Publication: Longitudinal NSSI Prediction -->
 <div class="research-item">
   <div class="research-image">
     <img src="{{ '/assets/img/research/Workflow.jpg' | relative_url }}" alt="NSSI Research">
@@ -137,7 +137,7 @@ subtitle:
   </div>
 </div>
 
-<!-- Second Publication: Causal Analysis NSSI -->
+<!-- 2 Publication: Causal Analysis NSSI -->
 <div class="research-item">
   <div class="research-image">
     <img src="{{ '/assets/img/research/NSSI Causal.jpg' | relative_url }}" alt="Causal Analysis Research">
@@ -151,7 +151,7 @@ subtitle:
     <br>
     <em>Frontiers in Public Health</em>, 2024, 12, 1305746. <strong>[Q1, IF: 3.4]</strong>
     <br>
-    <a href="https://gxyu0714.github.io/projects/NSSI_Causal">project</a>
+    <a href="https://gxyu0714.github.io/projects/cpcd/">project</a>
     /
     <a href="{{ 'https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1305746/full' | relative_url }}">paper</a>
     <p>
@@ -160,28 +160,7 @@ subtitle:
   </div>
 </div>
 
-<!-- Third Publication: Academic Values Study (Under Review) -->
-<div class="research-item">
-  <div class="research-image">
-    <img src="{{ '/assets/img/research/academic_values.jpg' | relative_url }}" alt="Academic Values Study">
-  </div>
-  <div class="research-content">
-    <span class="papertitle">Academic values, academic anxiety, and non-suicidal self-injury in Chinese adolescents: A three-wave longitudinal study</span>
-    <br>
-    <strong>Xinyu Guo</strong>, Peng, Y., Li, X., Zhao, L., Jiang, L., & Shek, D. T. L.
-    <br>
-    <em>BMC Psychology</em>, 2025. <strong>(Under review)</strong>
-    <br>
-    <a href="#">code</a>
-    /
-    <a href="#">paper</a>
-    <p>
-      A longitudinal investigation examining the relationships between academic values, academic anxiety, and non-suicidal self-injury behaviors among Chinese adolescents across three time points.
-    </p>
-  </div>
-</div>
-
-<!-- Fourth Publication: CRISP Framework -->
+<!-- 3 Publication: CRISP Framework -->
 <div class="research-item">
   <div class="research-image">
     <img src="{{ '/assets/img/research/CRISP.png' | relative_url }}" alt="CRISP Framework">
@@ -204,7 +183,7 @@ subtitle:
   </div>
 </div>
 
-<!-- Fifth Publication: COVID-19 Study -->
+<!-- 4 Publication: COVID-19 Study -->
 <div class="research-item">
   <div class="research-image">
     <img src="{{ '/assets/img/research/Radar chart.png' | relative_url }}" alt="COVID-19 Study">
@@ -227,7 +206,7 @@ subtitle:
   </div>
 </div>
 
-<!-- Sixth Publication: Dynamic Causal Graph -->
+<!-- 5 Publication: Dynamic Causal Graph -->
 <div class="research-item">
   <div class="research-image">
     <img src="{{ '/assets/img/research/Dynamic Causal.PNG' | relative_url }}" alt="Cognitive Impairment Research">
@@ -241,8 +220,6 @@ subtitle:
     <br>
     <em>In Proceedings of the 46th Annual Conference of the Cognitive Science Society</em>, 2024, Vol. 46. <strong>[Conference]</strong>
     <br>
-    <a href="#">code</a>
-    /
     <a href="{{ 'https://escholarship.org/uc/item/1gm9n38h' | relative_url }}">paper</a>
     <p>
       A dynamic causal graph-based machine learning approach for predicting cognitive impairment in aging populations, incorporating temporal relationships and causal mechanisms for improved accuracy.
@@ -250,7 +227,7 @@ subtitle:
   </div>
 </div>
 
-<!-- Seventh Publication: Granger Causality -->
+<!-- 6 Publication: Granger Causality -->
 <div class="research-item">
   <div class="research-image">
     <img src="{{ '/assets/img/research/granger_causality.jpg' | relative_url }}" alt="Granger Causality Study">
@@ -262,20 +239,15 @@ subtitle:
     <br>
     <em>In Proceedings of the 47th Annual Conference of the Cognitive Science Society</em>, 2025, Vol. 47. <strong>[Conference]</strong>
     <br>
-    <a href="#">code</a>
-    /
-    <a href="#">paper</a>
+    <a href="https://escholarship.org/uc/item/1v19r85x">paper</a>
     <p>
       A novel approach utilizing Granger causality methods for predicting cognitive impairment in middle-aged and elderly populations, focusing on temporal causal relationships in cognitive decline.
     </p>
   </div>
 </div>
 
-<!-- Eighth Publication: MDRO Study (Under Review) -->
+<!-- Publication: MDRO Study (Under Review 1) -->
 <div class="research-item">
-  <div class="research-image">
-    <img src="{{ '/assets/img/research/mdro_infection.jpg' | relative_url }}" alt="MDRO Infection Study">
-  </div>
   <div class="research-content">
     <span class="papertitle">Causality-driven models for MDRO infection prediction: Enabling effective ICU antibiotic stewardship</span>
     <br>
@@ -283,116 +255,29 @@ subtitle:
     <br>
     2025. <strong>(Under review)</strong>
     <br>
-    <a href="#">code</a>
-    /
-    <a href="#">paper</a>
     <p>
       Development of causality-driven predictive models for multidrug-resistant organism (MDRO) infections in ICU settings, aimed at improving antibiotic stewardship programs and reducing healthcare-associated infections.
     </p>
   </div>
 </div>
-#
 
-  <div class="research-item">
-    <div class="research-image">
-      <img src="{{ '/assets/img/research/Workflow.jpg' | relative_url }}" alt=" NSSI Research">
-    </div>
-    <div class="research-content">
-      <a href="https://szymanowiczs.github.io/bolt3d">
-        <span class="papertitle">Longitudinal Machine Learning Prediction of Non-Suicidal Self-Injury Among Chinese Adolescents: A Prospective Multicenter Cohort Study</span>
-      </a>
-      <br>
-      <strong>Xinyu Guo</strong>, ... &
-      <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>
-      <br>
-      <em>Journal of Affective Disorders</em>, 2025
-      <br>
-      <a href="https://github.com/Gxyu0714/LongitudinalPredictor">code</a>
-      /
-      <a href="{{ 'https://doi.org/10.1016/j.jad.2025.120110' | relative_url }}">paper</a>
-      <p> 
-        We introduce a progressive prediction framework utilizing four waves of longitudinal data and seven machine learning algorithms to predict NSSI risk among 3,483 Chinese adolescents. 
-      </p>
-    </div>
+<!-- Publication: Academic Values Study (Under Review 2) -->
+<div class="research-item">
+  <div class="research-content">
+    <span class="papertitle">Academic values, academic anxiety, and non-suicidal self-injury in Chinese adolescents: A three-wave longitudinal study</span>
+    <br>
+    <strong>Xinyu Guo</strong>, Peng, Y., Li, X., Zhao, L., Jiang, L., & Shek, D. T. L.
+    <br>
+    <em>BMC Psychology</em>, 2025. <strong>(Under review)</strong>
+    <br>
+    <p>
+      A longitudinal investigation examining the relationships between academic values, academic anxiety, and non-suicidal self-injury behaviors among Chinese adolescents across three time points.
+    </p>
   </div>
+</div>
 
-  <div class="research-item">
-            <div class="research-image">
-                <img src="{{ '/assets/img/research/CRISP.png' | relative_url }}" alt="CRISP Framework">
-            </div>
-            <div class="research-content">
-                <a href="#" class="papertitle">CRISP: A causal relationships-guided deep learning framework for advanced ICU mortality prediction</a>
-                <br>
-                Linna Wang, <strong>Xinyu Guo</strong>, Haoyue Shi, and 7 more authors
-                <br>
-                <em>BMC Medical Informatics and Decision Making</em>, 2025
-                <br>
-                <a href="#">code</a>
-                /
-                 <a href="{{ 'https://link.springer.com/article/10.1186/s12911-025-02981-1' | relative_url }}">paper</a>
-                <p>
-                    A novel deep learning framework that leverages causal relationships to improve mortality prediction in intensive care units, demonstrating superior performance over traditional approaches.
-                </p>
-            </div>
-        </div>
-        
-   <div class="research-item">
-            <div class="research-image">
-                <img src="{{ '/assets/img/research/NSSI Causal.jpg' | relative_url }}" alt="Causal Analysis Research">
-            </div>
-            <div class="research-content">
-                <a href="https://gxyu0714.github.io/projects/NSSI_Causal" class="papertitle">Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis</a>
-                <br>
-                <strong>Xinyu Guo</strong>, Linna Wang, Zhenchao Li, and 4 more authors
-                <br>
-                <em>Frontiers in Public Health</em>, 2024
-                <br>
-                <a href="#">code</a>
-                /
-                <a href="{{ 'https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1305746/full' | relative_url }}">paper</a>
-                <p>
-                    Utilizing computational causal analysis to identify key factors and pathways contributing to non-suicidal self-injury behaviors in children, providing insights for intervention strategies.
-                </p>
-            </div>
-        </div>
 
-  <div class="research-item">
-            <div class="research-image">
-                <img src="{{ '/assets/img/research/Radar chart.png' | relative_url }}" alt="COVID-19 Study">
-            </div>
-            <div class="research-content">
-                <a href="https://gxyu0714.github.io/projects/Covid19_Mental%20Health" class="papertitle">Life changes and symptoms of depression and anxiety among Chinese children and adolescents before, during, and after the COVID-19 pandemic lockdown: a combination of cross-sectional, longitudinal, and clustering studies</a>
-                <br>
-                Yu Zeng, Jie Song, Yanan Zhang, and 6 more authors
-                <br>
-                <em>European Child & Adolescent Psychiatry</em>, 2024
-                <br>
-                <a href="{{ 'https://link.springer.com/article/10.1007/s00787-024-02533-4' | relative_url }}">paper</a>
-                <p>
-                    A comprehensive analysis of mental health changes in Chinese youth during the COVID-19 pandemic, combining multiple study designs to understand the impact of lockdown measures on depression and anxiety symptoms.
-                </p>
-            </div>
-        </div>
 
-  <div class="research-item">
-            <div class="research-image">
-                <img src="{{ '/assets/img/research/Dynamic Causal.PNG' | relative_url }}" alt="Cognitive Impairment Research">
-            </div>
-            <div class="research-content">
-                <a href="#" class="papertitle">Dynamic Causal Graph-Based Learning Approach for Predicting Cognitive Impairment in Middle-Aged and Older Adults</a>
-                <br>
-                Linna Wang, <strong>Xinyu Guo</strong>, Yunyi Zhou, and 5 more authors
-                <br>
-                <em>In Proceedings of the Annual Meeting of the Cognitive Science Society</em>, 2024
-                <br>
-                <a href="#">code</a>
-                /
-                <a href="{{ 'https://escholarship.org/uc/item/1gm9n38h' | relative_url }}">paper</a>
-                <p>
-                    A dynamic causal graph-based machine learning approach for predicting cognitive impairment in aging populations, incorporating temporal relationships and causal mechanisms for improved accuracy.
-                </p>
-            </div>
-        </div>
 
   <div style="margin-bottom: 30px;">
     <h2>Project</h2>
