@@ -1,11 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: My project collection is constantly growing and I hope to collaborate with you on exciting projects in the future!
 nav: true
 nav_order: 2
-display_categories: [Research, Cohort Survey and Practice, Media and other fun stuff]
+display_categories: [Research, Cohort Survey and Practice, Media, and other fun stuff]
 horizontal: false
 ---
 
