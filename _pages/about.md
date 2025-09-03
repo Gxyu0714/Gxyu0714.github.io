@@ -88,7 +88,7 @@ subtitle:
 <div class="research-container">
   <div class="profile-section">
     <div class="profile-text">
-      <!-- <p class="name">Xinyu Guo</p> -->
+      <!-- <p class="name">Xinyu (Riley) Guo</p> -->
       <p>
         I'm a rising research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
         Previously, I got my master's degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>.
@@ -140,7 +140,7 @@ subtitle:
 <!-- 2 Publication: Causal Analysis NSSI -->
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="Causal Analysis Research">
+    <img src="{{ '/assets/img/research/NSSI.png' | relative_url }}" alt="Causal Analysis Research">
   </div>
   <div class="research-content">
     <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1305746/full">
@@ -186,7 +186,7 @@ subtitle:
 <!-- 4 Publication: COVID-19 Study -->
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="COVID-19 Study">
+    <img src="{{ '/assets/img/research/Radar_chart.png' | relative_url }}" alt="COVID-19 Study">
   </div>
   <div class="research-content">
     <a href="https://link.springer.com/article/10.1007/s00787-024-02533-4">
@@ -230,7 +230,7 @@ subtitle:
 <!-- 6 Publication: Granger Causality -->
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="Granger Causality Study">
+    <img src="{{ '/assets/img/research/granger_causality.jpg' | relative_url }}" alt="Granger Causality Study">
   </div>
   <div class="research-content">
     <span class="papertitle">Prediction of cognitive impairment in middle-aged and elderly people: A method based on Granger causality</span>
@@ -248,6 +248,9 @@ subtitle:
 
 <!-- Publication: MDRO Study (Under Review 1) -->
 <div class="research-item">
+  <div class="research-image">
+    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="MDRO Study">
+  </div>
   <div class="research-content">
     <span class="papertitle">Causality-driven models for MDRO infection prediction: Enabling effective ICU antibiotic stewardship</span>
     <br>
@@ -261,8 +264,12 @@ subtitle:
   </div>
 </div>
 
+
 <!-- Publication: Academic Values Study (Under Review 2) -->
 <div class="research-item">
+  <div class="research-image">
+    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="Academic Values Study">
+  </div>
   <div class="research-content">
     <span class="papertitle">Academic values, academic anxiety, and non-suicidal self-injury in Chinese adolescents: A three-wave longitudinal study</span>
     <br>
