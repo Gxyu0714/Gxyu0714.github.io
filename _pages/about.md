@@ -140,7 +140,7 @@ subtitle:
 <!-- 2 Publication: Causal Analysis NSSI -->
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/research/NSSI Causal.jpg' | relative_url }}" alt="Causal Analysis Research">
+    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="Causal Analysis Research">
   </div>
   <div class="research-content">
     <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1305746/full">
@@ -186,7 +186,7 @@ subtitle:
 <!-- 4 Publication: COVID-19 Study -->
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/research/Radar chart.png' | relative_url }}" alt="COVID-19 Study">
+    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="COVID-19 Study">
   </div>
   <div class="research-content">
     <a href="https://link.springer.com/article/10.1007/s00787-024-02533-4">
@@ -230,7 +230,7 @@ subtitle:
 <!-- 6 Publication: Granger Causality -->
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/research/granger_causality.jpg' | relative_url }}" alt="Granger Causality Study">
+    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="Granger Causality Study">
   </div>
   <div class="research-content">
     <span class="papertitle">Prediction of cognitive impairment in middle-aged and elderly people: A method based on Granger causality</span>
