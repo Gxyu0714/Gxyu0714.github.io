@@ -302,19 +302,43 @@ subtitle:
         <span class="papertitle">Chengdu Positive Child Development (CPCD) Survey</span>
       </a>
       <br>
-      <strong>Xinyu Guo</strong>,
-      <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>
-      <br>
       <em>Journal of Affective Disorders</em>, 2025
       <br>
       <a href="https://gxyu0714.github.io/projects/cpcd/">Project Description</a>
       <p>
         I directed the 5th wave of the survey, including coordination with participating schools and logistical planning and managed field surveys, data entry using Epidata, and ensured accuracy in preliminary data processing.
+        I independently performed matching, screening, data cleaning, and missing value imputation for Waves 1-4 data, and developed a longitudinal machine learning model to predict adolescent NSSI.
       </p>
     </div>
   </div>
 
+  <div class="research-item">
+    <div class="research-image">
+      <img src="{{ '/assets/img/research/cgss_logo.png' | relative_url }}" alt="Chinese General Social Survey (CGSS)">
+    </div>
+    <div class="research-content">
+      <a href="http://cgss.ruc.edu.cn/English/Home.htm">
+        <span class="projecttitle">Chinese General Social Survey (CGSS)</span>
+      </a>
+      <a href="https://gxyu0714.github.io/projects/cgss/">Project Description</a>
+      <p>
+        I co-led the 2023 Sichuan Province survey team, with responsibilities including project planning and coordination, field household interviews, and software management.
+      </p>
+    </div>
+  </div>
 
+   <div class="research-item">
+    <div class="research-image">
+      <img src="{{ '/assets/img/research/cgss_logo.png' | relative_url }}" alt="chronic disease and health literacy survey">
+    </div>
+    <div class="research-content">
+        <span class="projecttitle">Chronic Disease Burden and Health Literacy</span>
+      </a>
+      <p>
+        I led a chronic disease and health literacy survey across five Sichuan Province cities, organizing field data collection and interviews, analyzing and visualizing results, and preparing the research report for government departments.
+      </p>
+    </div>
+  </div>
 
 
 
