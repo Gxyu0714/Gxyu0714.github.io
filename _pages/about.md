@@ -285,60 +285,59 @@ subtitle:
 
 
 
+<div style="margin-bottom: 30px;">
+  <h2>Project</h2>
+  <p>
+    Several projects that I lead are listed below:
+  </p>
+</div>
 
-  <div style="margin-bottom: 30px;">
-    <h2>Project</h2>
+<div class="research-item">
+  <div class="research-image">
+    <img src="{{ '/assets/img/research/cpcd.png' | relative_url }}" alt="NSSI Research">
+  </div>
+  <div class="research-content">
+    <a href="https://gxyu0714.github.io/projects/cpcd/">
+      <span class="projecttitle"><strong>Chengdu Positive Child Development (CPCD) Survey</strong></span>
+    </a>
+    <br>
+    <a href="https://gxyu0714.github.io/projects/cpcd/">Project Description</a>
     <p>
-      Several projects that I lead are listed below:
+      I directed the 5th wave of the survey, including coordination with participating schools and logistical planning and managed field surveys, data entry using Epidata, and ensured accuracy in preliminary data processing.
+    </p>
+    <p>
+      I independently conducted data matching, screening, cleaning, and missing value imputation for Waves 1-4, then developed a longitudinal machine learning model to predict adolescent NSSI, published in <em>Journal of Affective Disorders</em>, 2025.
     </p>
   </div>
+</div>
 
-  <div class="research-item">
-    <div class="research-image">
-      <img src="{{ '/assets/img/research/cpcd.png' | relative_url }}" alt="NSSI Research">
-    </div>
-    <div class="research-content">
-      <a href="https://gxyu0714.github.io/projects/cpcd/">
-        <span class="projecttitle"><strong>Chengdu Positive Child Development (CPCD) Survey<strong></span>
-      </a>
-      <a href="https://gxyu0714.github.io/projects/cpcd/">Project Description</a>
-      <p>
-        I directed the 5th wave of the survey, including coordination with participating schools and logistical planning and managed field surveys, data entry using Epidata, and ensured accuracy in preliminary data processing.
-      </p>
-      <p>
-  I independently conducted data matching, screening, cleaning, and missing value imputation for Waves 1-4, then developed a longitudinal machine learning model to predict adolescent NSSI, published in <em>Journal of Affective Disorders</em>, 2025.
-      </p>
-    </div>
+<div class="research-item">
+  <div class="research-image">
+    <img src="{{ '/assets/img/cgss_logo.jpg' | relative_url }}" alt="Chinese General Social Survey (CGSS)">
   </div>
+  <div class="research-content">
+    <a href="http://cgss.ruc.edu.cn/English/Home.htm">
+      <span class="projecttitle"><strong>Chinese General Social Survey (CGSS)</strong></span>
+    </a>
+    <br>
+    <a href="https://gxyu0714.github.io/projects/cgss/">Project Description</a>
+    <p>
+      I co-led the 2023 Sichuan Province survey team, with responsibilities including project planning and coordination, field household interviews, and software management.
+    </p>
+  </div>
+</div>
 
-  <div class="research-item">
-    <div class="research-image">
-      <img src="{{ '/assets/img/cgss_logo.jpg' | relative_url }}" alt="Chinese General Social Survey (CGSS)">
-    </div>
-    <div class="research-content">
-      <a href="http://cgss.ruc.edu.cn/English/Home.htm">
-        <span class="projecttitle"><strong>Chinese General Social Survey (CGSS)<strong></span>
-      </a>
-      <br>
-      <a href="https://gxyu0714.github.io/projects/cgss/">Project Description</a>
-      <br>
-      <p>
-        I co-led the 2023 Sichuan Province survey team, with responsibilities including project planning and coordination, field household interviews, and software management.
-      </p>
-    </div>
+<div class="research-item">
+  <div class="research-image">
+    <img src="{{ '/assets/img/CDHL.jpg' | relative_url }}" alt="Chronic Disease and Health Literacy Survey">
   </div>
-
-   <div class="research-item">
-    <div class="research-image">
-      <img src="{{ '/assets/img/CDHL.jpg' | relative_url }}" alt="Chronic Disease and Health Literacy Survey">
-    </div>
-    <div class="research-content">
-        <span class="projecttitle"><strong>Chronic Disease and Health Literacy Survey</strong></span>
-      <p>
-        I led a chronic disease and health literacy survey across 7 Sichuan Province cities, organizing field data collection and interviews, analyzing and visualizing results, and preparing the research report for government departments.
-      </p>
-    </div>
+  <div class="research-content">
+    <span class="projecttitle"><strong>Chronic Disease and Health Literacy Survey</strong></span>
+    <p>
+      I led a chronic disease and health literacy survey across 7 Sichuan Province cities, organizing field data collection and interviews, analyzing and visualizing results, and preparing the research report for government departments.
+    </p>
   </div>
+</div>
 
 
 
