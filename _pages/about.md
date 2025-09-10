@@ -295,11 +295,11 @@ subtitle:
 
   <div class="research-item">
     <div class="research-image">
-      <img src="{{ '/assets/img/research/NSSI.png' | relative_url }}" alt="NSSI Research">
+      <img src="{{ '/assets/img/research/cpcd.png' | relative_url }}" alt="NSSI Research">
     </div>
     <div class="research-content">
       <a href="https://gxyu0714.github.io/projects/cpcd/">
-        <span class="papertitle">Chengdu Positive Child Development (CPCD) Survey</span>
+        <span class="projecttitle"><strong>Chengdu Positive Child Development (CPCD) Survey<strong></span>
       </a>
       <a href="https://gxyu0714.github.io/projects/cpcd/">Project Description</a>
       <p>
@@ -313,11 +313,11 @@ subtitle:
 
   <div class="research-item">
     <div class="research-image">
-      <img src="{{ '/assets/img/cgss_logo.png' | relative_url }}" alt="Chinese General Social Survey (CGSS)">
+      <img src="{{ '/assets/img/cgss_logo.jpg' | relative_url }}" alt="Chinese General Social Survey (CGSS)">
     </div>
     <div class="research-content">
       <a href="http://cgss.ruc.edu.cn/English/Home.htm">
-        <span class="projecttitle">Chinese General Social Survey (CGSS)</span>
+        <span class="projecttitle"><strong>Chinese General Social Survey (CGSS)<strong></span>
       </a>
       <br>
       <a href="https://gxyu0714.github.io/projects/cgss/">Project Description</a>
@@ -333,7 +333,7 @@ subtitle:
       <img src="{{ '/assets/img/CDHL.jpg' | relative_url }}" alt="Chronic Disease and Health Literacy Survey">
     </div>
     <div class="research-content">
-        <span class="projecttitle">Chronic Disease and Health Literacy Survey</span>
+        <span class="projecttitle"><strong>Chronic Disease and Health Literacy Survey</strong></span>
       <p>
         I led a chronic disease and health literacy survey across 7 Sichuan Province cities, organizing field data collection and interviews, analyzing and visualizing results, and preparing the research report for government departments.
       </p>
