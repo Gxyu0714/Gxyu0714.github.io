@@ -330,7 +330,7 @@ subtitle:
 
    <div class="research-item">
     <div class="research-image">
-      <img src="{{ '/assets/img/CDHL.png' | relative_url }}" alt="Chronic Disease and Health Literacy Survey">
+      <img src="{{ '/assets/img/CDHL.jpg' | relative_url }}" alt="Chronic Disease and Health Literacy Survey">
     </div>
     <div class="research-content">
         <span class="projecttitle">Chronic Disease and Health Literacy Survey</span>
