@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 nav: true
 nav_order: 2
-display_categories: [Research, Cohort Survey and Practice, Media, and other fun stuff]
+display_categories: [Research, Cohort Survey and Practice, Work Experience]
 horizontal: false
 ---
 
