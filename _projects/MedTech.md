@@ -4,7 +4,7 @@ title: Medical Media Platform
 description: Exploring medical device innovation through media and analysis.
 img: assets/img/medrobot.png
 importance: 1
-category: Media and other fun stuff
+category: Media
 ---
 
 <style>
