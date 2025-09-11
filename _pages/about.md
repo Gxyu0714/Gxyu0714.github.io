@@ -294,7 +294,7 @@ subtitle:
 
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/research/cpcd.png' | relative_url }}" alt="NSSI Research">
+    <img src="{{ '/assets/img/cpcd.png' | relative_url }}" alt="NSSI Research">
   </div>
   <div class="research-content">
     <a href="https://gxyu0714.github.io/projects/cpcd/">
