@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Medical Media Platform
-description: Exploring medical device innovation through media and analysis.
+title: MedChina & MedRobot Media Platforms
+description: Media Editor & Policy Analyst
 img: assets/img/medrobot.png
 importance: 1
-category: Media
+category: Work Experience
 ---
 
 <style>
@@ -127,8 +127,8 @@ body {
 <div class="header">
     <h1>Media Editor & Policy Analyst</h1>
     <div class="company-info">
-        <a href="https://www.medchina.tech/" target="_blank">MedChina</a> & 
-        <a href="https://www.medrobot.tech/" target="_blank">MedRobot</a> Media Platforms
+        <strong><a href="https://www.medchina.tech/" target="_blank">MedChina</a><strong> & 
+        <strong><a href="https://www.medrobot.tech/" target="_blank">MedRobot</a><strong> Media Platforms
     </div>
 </div>
 
