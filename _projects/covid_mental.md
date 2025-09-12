@@ -4,7 +4,7 @@ title: Life Changes and Mental Health in Adolescents During COVID-19
 description: Exploring the impact of COVID-19 lockdowns on the mental health of children and adolescents in China through cross-sectional, longitudinal, and clustering studies.
 img: assets/img/DA.jpg
 importance: 3
-category: Research
+# category: Research
 nav: false
 ---
 
