@@ -109,7 +109,7 @@ subtitle:
   <div style="margin-bottom: 30px;">
     <h2>Research</h2>
     <p>
-      I'm interested in leveraging compute, data, and statistics to understand public and mental health.
+      I am interested in using computational, statistical, and data-driven methods to understand public and mental health, and to develop interpretable predictive models from electronic health records (EHR).
     </p>
   </div>
 
