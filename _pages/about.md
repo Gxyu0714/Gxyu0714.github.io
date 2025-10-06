@@ -230,7 +230,7 @@ subtitle:
 <!-- 6 Publication: Granger Causality -->
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/research/todo.png' | relative_url }}" alt="Granger Causality Study">
+    <img src="{{ '/assets/img/research/Cogsci47.png' | relative_url }}" alt="Granger Causality Study">
   </div>
   <div class="research-content">
     <span class="papertitle">Prediction of cognitive impairment in middle-aged and elderly people: A method based on Granger causality</span>
