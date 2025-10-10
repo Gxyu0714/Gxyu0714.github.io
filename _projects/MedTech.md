@@ -129,8 +129,7 @@ body {
     <div class="company-info">
         <strong><a href="https://www.medchina.tech/" target="_blank">MedChina</a><strong> & 
         <strong><a href="https://www.medrobot.tech/" target="_blank">MedRobot</a><strong> Media Platforms
-    </div>
-</div>
+
 
 <div class="section">
     <p>My interest in surgical robotics began through a podcast introduction to the Da Vinci surgical robot. I was particularly impressed by its minimally invasive capabilities and the significantly reduced patient recovery times it enabled. Although this technology field was completely unrelated to my undergraduate studies, my graduate background in Health Policy and Management sparked my curiosity about how these advanced medical technologies navigate China's complex regulatory landscape.</p>
@@ -224,8 +223,9 @@ body {
     </div>
     
     <div class="qr-code">
-        <p><strong>Follow "Device Market" WeChat Account:</strong></p>
-        <img src="assets/img/DM.jpg" alt="Device Market WeChat QR Code">
+        <p><strong>Follow Linkedin Account below:</strong></p>
+        <strong><a href="https://www.linkedin.com/company/med-china/" target="_blank">MedChina</a><strong> & 
+        <strong><a href="https://www.linkedin.com/company/medrobot/" target="_blank">MedRobot</a><strong> Media Platforms
         <p>Access our latest industry insights and analysis</p>
     </div>
 </div>
