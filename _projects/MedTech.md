@@ -179,12 +179,12 @@ body {
     <p>Led research and content development for major industry conferences:</p>
     <div class="conferences">
         <div class="conference-item">
-            <img src="Gxyu0714.github.io/assets/img/Med1.png" alt="Global Medical Robotics Conference 2023" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; margin-bottom: 10px;">
+            <img src="/assets/img/Med1.png" alt="Global Medical Robotics Conference 2023" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; margin-bottom: 10px;">
             <h4>Global Medical Robotics Conference 2023</h4>
             <p>Authored comprehensive report sections on Chinese surgical robot market landscape and regulatory environment</p>
         </div>
         <div class="conference-item">
-            <img src="Gxyu0714.github.io/assets/img/Med2.png" alt="Global Medical Robotics Conference 2024" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; margin-bottom: 10px;">
+            <img src="/assets/img/Med2.png" alt="Global Medical Robotics Conference 2024" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; margin-bottom: 10px;">
             <h4>Global Medical Robotics Conference 2024</h4>
             <p>Delivered analysis on regional policy frameworks and market entry strategies for surgical robotics</p>
         </div>
