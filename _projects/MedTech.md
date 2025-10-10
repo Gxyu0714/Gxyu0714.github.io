@@ -225,7 +225,5 @@ body {
     <div class="qr-code">
         <p><strong>Follow Linkedin Account below:</strong></p>
         <strong><a href="https://www.linkedin.com/company/med-china/" target="_blank">MedChina</a><strong> & 
-        <strong><a href="https://www.linkedin.com/company/medrobot/" target="_blank">MedRobot</a><strong> Media Platforms
+        <strong><a href="https://www.linkedin.com/company/medrobot/" target="_blank">MedRobot</a><strong> 
         <p>Access our latest industry insights and analysis</p>
-    </div>
-</div>
