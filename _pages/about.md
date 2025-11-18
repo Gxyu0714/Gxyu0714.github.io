@@ -90,7 +90,7 @@ subtitle:
     <div class="profile-text">
       <!-- <p class="name">Xinyu (Riley) Guo</p> -->
       <p>
-        I'm a rising research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
+        I'm a research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
         Previously, I got my master's degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>.
       </p>
       <p style="text-align: center">
