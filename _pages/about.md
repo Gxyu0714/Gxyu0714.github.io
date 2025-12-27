@@ -256,7 +256,7 @@ subtitle:
     <br>
     Wang, L., <strong>Xinyu Guo</strong>(co-first author), Jiang, L., Li, Z., Zhao, L., Feng, Z., & Lu, L.
     <br>
-    2025. <strong>(Under review)</strong>
+    2025. <strong>(Under revision)</strong>
     <br>
     <p>
       Development of causality-driven predictive models for multidrug-resistant organism (MDRO) infections in ICU settings, aimed at improving antibiotic stewardship programs and reducing healthcare-associated infections.
