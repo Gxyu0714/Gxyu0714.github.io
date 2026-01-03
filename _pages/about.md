@@ -95,7 +95,7 @@ subtitle:
       </p>
       <p style="text-align: center">
         <a href="mailto:xinyu714.guo@polyu.edu.hk">Email</a> &nbsp;/&nbsp;
-        <a href="{{ '/assets/pdf/CV_Xinyu.pdf' | relative_url }}">CV</a> &nbsp;/&nbsp;
+        <a href="{{ '/assets/pdf/CV_Xinyu_30Nov.pdf' | relative_url }}">CV</a> &nbsp;/&nbsp;
         <a href="https://scholar.google.com/citations?user=cDDGr3sAAAAJ&hl=en">Scholar</a> &nbsp;/&nbsp;
         <a href="https://x.com/XinyuGuo1654050">Twitter</a> &nbsp;/&nbsp;
         <a href="https://www.linkedin.com/in/xinyuguo714/">LinkedIn</a>
