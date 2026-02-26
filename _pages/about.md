@@ -174,7 +174,7 @@ subtitle:
     <br>
     <em>BMC Medical Informatics and Decision Making</em>, 2025, 25(1), 165. <strong>[Q2, IF: 3.8]</strong>
     <br>
-    <a href="#">code</a>
+     <a href="https://github.com/Gxyu0714/CRISP">code</a>
     /
     <a href="{{ 'https://link.springer.com/article/10.1186/s12911-025-02981-1' | relative_url }}">paper</a>
     <p>
