@@ -250,7 +250,7 @@ subtitle:
 <!-- Publication: MDRO Study ( -->
 <div class="research-item">
   <div class="research-image">
-    <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="MDRO Study">
+    <img src="{{ '/assets/img/MDRO.jpg' | relative_url }}" alt="MDRO Study">
   </div>
   <div class="research-content">
     <span class="papertitle">Causality-Informed Models for Multidrug-Resistant Organism Prediction: Enabling Effective ICU Antibiotic Stewardship</span>
