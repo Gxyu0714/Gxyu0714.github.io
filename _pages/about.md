@@ -124,7 +124,7 @@ subtitle:
       <span class="papertitle">Longitudinal machine learning prediction of non-suicidal self-injury among Chinese adolescents: A prospective multicenter cohort study</span>
     </a>
     <br>
-    <strong>Xinyu Guo</strong>, Liu, S., Jiang, L., Xiong, Z., Wang, L., Lu, L., ... &
+    <strong>Guo, X.</strong>, Liu, S., Jiang, L., Xiong, Z., Wang, L., Lu, L., ... &
     <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>
     <br>
     <em>Journal of Affective Disorders</em>, 2025, 120110. <strong>[Q1, IF: 4.9]</strong>
@@ -148,7 +148,7 @@ subtitle:
       <span class="papertitle">Factors and pathways of non-suicidal self-injury in children: Insights from computational causal analysis</span>
     </a>
     <br>
-    <strong>Xinyu Guo</strong>, Wang, L., Li, Z., Feng, Z., Lu, L., Jiang, L., & Zhao, L.
+    <strong>Guo, X.</strong>, Wang, L., Li, Z., Feng, Z., Lu, L., Jiang, L., & Zhao, L.
     <br>
     <em>Frontiers in Public Health</em>, 2024, 12, 1305746. <strong>[Q1, IF: 3.4]</strong>
     <br>
@@ -171,7 +171,7 @@ subtitle:
       <span class="papertitle">CRISP: A causal relationships-guided deep learning framework for advanced ICU mortality prediction</span>
     </a>
     <br>
-    Wang, L., <strong>Xinyu Guo</strong>, Shi, H., Ma, Y., Bao, H., Jiang, L., Zhao, L., Feng, Z., Zhu, T., & Lu, L.
+    Wang, L., <strong>Guo, X.</strong>, Shi, H., Ma, Y., Bao, H., Jiang, L., Zhao, L., Feng, Z., Zhu, T., & Lu, L.
     <br>
     <em>BMC Medical Informatics and Decision Making</em>, 2025, 25(1), 165. <strong>[Q2, IF: 3.8]</strong>
     <br>
@@ -194,7 +194,7 @@ subtitle:
       <span class="papertitle">Life changes and symptoms of depression and anxiety among Chinese children and adolescents before, during, and after the COVID-19 pandemic lockdown: a combination of cross-sectional, longitudinal, and clustering studies</span>
     </a>
     <br>
-    Zeng, Y., Song, J., Zhang, Y., <strong>Xinyu Guo</strong>, Xu, X., Fan, L., Zhao, L., Song, H., & Jiang, L.
+    Zeng, Y., Song, J., Zhang, Y., <strong>Guo, X.</strong>, Xu, X., Fan, L., Zhao, L., Song, H., & Jiang, L.
     <br>
     <em>European Child & Adolescent Psychiatry</em>, 2025, 34(3), 1025-1038. <strong>[Q1, IF: 4.9]</strong>
     <br>
@@ -217,7 +217,7 @@ subtitle:
       <span class="papertitle">Dynamic causal graph-based learning approach for predicting cognitive impairment in middle-aged and older adults</span>
     </a>
     <br>
-    Wang, L., <strong>Xinyu Guo</strong>, Zhou, Y., Li, Z., Jiang, L., Zhao, L., Feng, Z., & Lu, L.
+    Wang, L., <strong>Guo, X.</strong>, Zhou, Y., Li, Z., Jiang, L., Zhao, L., Feng, Z., & Lu, L.
     <br>
     <em>In Proceedings of the 46th Annual Conference of the Cognitive Science Society</em>, 2024, Vol. 46. <strong>[Conference]</strong>
     <br>
@@ -236,7 +236,7 @@ subtitle:
   <div class="research-content">
     <span class="papertitle">Prediction of cognitive impairment in middle-aged and elderly people: A method based on Granger causality</span>
     <br>
-    Li, S., Wang, L., <strong>Xinyu Guo</strong>, Shi, H., Ma, Y., Zhang, X., Feng, Z., & Lu, L.
+    Li, S., Wang, L., <strong>Guo, X.</strong>, Shi, H., Ma, Y., Zhang, X., Feng, Z., & Lu, L.
     <br>
     <em>In Proceedings of the 47th Annual Conference of the Cognitive Science Society</em>, 2025, Vol. 47. <strong>[Conference]</strong>
     <br>
@@ -247,19 +247,22 @@ subtitle:
   </div>
 </div>
 
-<!-- Publication: MDRO Study (Under Review 1) -->
+<!-- Publication: MDRO Study ( -->
 <div class="research-item">
   <div class="research-image">
     <img src="{{ '/assets/img/todo.png' | relative_url }}" alt="MDRO Study">
   </div>
   <div class="research-content">
-    <span class="papertitle">Causality-driven models for MDRO infection prediction: Enabling effective ICU antibiotic stewardship</span>
+    <span class="papertitle">Causality-Informed Models for Multidrug-Resistant Organism Prediction: Enabling Effective ICU Antibiotic Stewardship</span>
     <br>
-    Wang, L., <strong>Xinyu Guo</strong>(co-first author), Jiang, L., Li, Z., Zhao, L., Feng, Z., & Lu, L.
+    Wang, L., <strong>Guo, X.</strong>, Chen, Y., Li, S., Zhao, L., Feng, Z., & Lu, L.
     <br>
-    2025. <strong>(Under revision)</strong>
+    <em>International Journal of Antimicrobial Agents</em>, 2026, 107767. <strong>[Q1, IF: 4.6]</strong>
     <br>
-    <p>
+    <a href="https://github.com/LinnaWang-Lena/CausalityMDRO">code</a>
+    /
+    <a href="{{ 'https://www.sciencedirect.com/science/article/abs/pii/S0924857926000567' | relative_url }}">paper</a>
+    <p> 
       Development of causality-driven predictive models for multidrug-resistant organism (MDRO) infections in ICU settings, aimed at improving antibiotic stewardship programs and reducing healthcare-associated infections.
     </p>
   </div>
