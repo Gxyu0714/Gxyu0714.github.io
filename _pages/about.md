@@ -91,7 +91,8 @@ subtitle:
       <!-- <p class="name">Xinyu (Riley) Guo</p> -->
       <p>
         I'm a research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
-        Previously, I got my master's degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>.
+        Previously, I got my master's degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>. I will join the <a href="https://www.ucr.edu/">University of California, Riverside</a> as a PhD student in 26 Fall. I feel fortunate to get advised by <a href="https://sites.google.com/ucr.edu/hollyporourke">Holly O'Rourke</a>.
+
       </p>
       <p style="text-align: center">
         <a href="mailto:xinyu714.guo@polyu.edu.hk">Email</a> &nbsp;/&nbsp;
