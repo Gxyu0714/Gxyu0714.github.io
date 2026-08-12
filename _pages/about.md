@@ -146,12 +146,6 @@ social: false
       <span class="lang-en">Research</span>
       <span class="lang-zh">研究</span>
     </h2>
-    <p class="lang-en">
-      I am interested in using computational, statistical, and data-driven methods to understand public and mental health, and to develop interpretable predictive models from electronic health records (EHR).
-    </p>
-    <p class="lang-zh">
-      我关注运用计算、统计与数据驱动方法理解公共与心理健康问题，并基于电子健康记录（EHR）发展可解释的预测模型。
-    </p>
   </div>
 
 <!-- 1 Publication: Longitudinal NSSI Prediction -->
