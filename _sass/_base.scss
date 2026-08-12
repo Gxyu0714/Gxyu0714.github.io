@@ -432,12 +432,14 @@ html[data-lang='zh'] .lang-en {
 
 .news-scroll--fade {
   .news-scroll__inner {
-    max-height: 8.75rem; // roughly 3–4 rows
-    overflow-y: hidden;
-    padding-right: 0.25rem;
+    max-height: 7.25rem; // about 3 compact rows
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding-right: 0.35rem;
     scrollbar-width: thin;
     scrollbar-color: var(--global-divider-color) transparent;
-    transition: max-height 0.25s ease;
+    -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
+    mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
   }
 
   &::after {
@@ -446,7 +448,7 @@ html[data-lang='zh'] .lang-en {
     left: 0;
     right: 0;
     bottom: 0;
-    height: 2.75rem;
+    height: 2.5rem;
     pointer-events: none;
     background: linear-gradient(to bottom, transparent, var(--global-bg-color));
     opacity: 1;
@@ -454,14 +456,31 @@ html[data-lang='zh'] .lang-en {
   }
 
   &:hover .news-scroll__inner,
+  &:focus-within .news-scroll__inner,
+  &.is-at-bottom .news-scroll__inner {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+
+  &:hover .news-scroll__inner,
   &:focus-within .news-scroll__inner {
-    max-height: 16rem;
-    overflow-y: auto;
+    max-height: 14rem;
   }
 
   &:hover::after,
-  &:focus-within::after {
-    opacity: 0.35;
+  &:focus-within::after,
+  &.is-at-bottom::after {
+    opacity: 0;
+  }
+
+  .table {
+    tr {
+      th,
+      td {
+        padding-top: 0.35rem;
+        padding-bottom: 0.35rem;
+      }
+    }
   }
 }
 

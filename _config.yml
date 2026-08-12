@@ -201,7 +201,7 @@ collections:
 
 announcements:
   enabled: true
-  scrollable: true # homepage news: show ~3-4 items, hover to scroll for more
+  scrollable: true # homepage news: clip to ~3 rows with fade; scroll for more
   limit: 12 # how many news items are available in the scroll list
 
 # -----------------------------------------------------------------------------
