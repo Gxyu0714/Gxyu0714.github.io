@@ -5,7 +5,7 @@ title_zh: 项目
 permalink: /projects/
 nav: true
 nav_order: 2
-display_categories: [Research, Cohort Survey and Practice, Work Experience]
+display_categories: [Cohort Survey and Practice, Work Experience]
 horizontal: false
 ---
 
