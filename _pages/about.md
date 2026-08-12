@@ -391,8 +391,4 @@ social: false
 
 
 
-  <br>
-  <p style="text-align:right;font-size:small;">
-    Template from <a href="https://jonbarron.info/">Jon Barron</a>.
-  </p>
 </div>
