@@ -1,0 +1,45 @@
+name: Sync publication news
+
+on:
+  schedule:
+    # Every Monday 09:00 UTC
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-scholar-news
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Detect new publications
+        env:
+          ORCID_ID: "0009-0007-1165-7402"
+          SCHOLAR_USERID: "cDDGr3sAAAAJ"
+        run: |
+          python bin/sync_scholar_news.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "Xinyu Guo"
+          git config user.email "guoxinyu00714@gmail.com"
+          git add _news _data/known_publications.yml
+          git commit -m "Add News items for newly listed publications."
+          git push
