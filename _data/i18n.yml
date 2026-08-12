@@ -1,0 +1,25 @@
+en:
+  about: About
+  news: News
+  publications: Publications
+  projects: Projects
+  blog: Blog
+  cv: CV
+  research: Research
+  project: Project
+  no_news: No news so far...
+  lang_toggle: 中文
+  contact_note: Feel free to reach me by email.
+
+zh:
+  about: 关于
+  news: 动态
+  publications: 论文
+  projects: 项目
+  blog: 博客
+  cv: 简历
+  research: 研究
+  project: 项目
+  no_news: 暂无动态...
+  lang_toggle: EN
+  contact_note: 欢迎通过邮件联系我。

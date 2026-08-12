@@ -1,0 +1,101 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Xinyu Guo
+    - name: Email
+      value: guoxinyu714@stu.scu.edu.cn
+    - name: Phone
+      value: +86 15851801843
+    - name: Website
+      value: <a href="https://gxyu0714.github.io/">gxyu0714.github.io</a>
+    - name: Languages
+      value: Chinese (native), English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Health Policy and Management
+      institution: Sichuan University, West China Fourth Hospital, Chengdu, China
+      year: 2022 - 2025
+      description:
+        - GPA: 3.75/4.0
+        - Relevant Courses: Health Economics (97), Health Policy and Management (90)
+    - title: Bachelor of E-Commerce
+      institution: Nanjing University of Traditional Chinese Medicine, Nanjing, China
+      year: 2018 - 2022
+      description:
+        - GPA: 3.62/4.0, Ranked 1 out of 39
+        - Relevant Courses: Linear Algebra (A), Game Theory (A), SPSS Economic Statistical Analysis (A)
+    - title: International Organizations Program
+      institution: Cambridge University, Girton College, Cambridge, UK
+      year: 2023
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Project Assistant
+      institution: Hong Kong Polytechnic University, Department of Applied Social Sciences
+      year: 03/2024 - 07/2024
+      description:
+        - Implemented RI-CLPM extended and LGCM models using R and Mplus.
+        - Assisted in workshops for undergraduate courses on service leadership.
+    - title: Editor
+      institution: MedRobot, Beijing, China
+      year: 08/2022 - Present
+      description:
+        - Authored and reviewed articles on medical devices and policies.
+        - Contributed to a global surgical robot market analysis report.
+    - title: Intern, Capability Enhancement Department
+      institution: JD Health International Inc., Beijing, China
+      year: 02/2022 - 06/2022
+      description:
+        - Managed the group's first internal "Spark Plan" innovation project.
+        - Organized workshops to address key business challenges.
+    - title: Intern
+      institution: Science and Technology Park of Sichuan University, Sichuan, China
+      year: 09/2023 - Present
+      description:
+        - Coordinated a team to develop a full-service platform for research achievements transformation.
+
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: Integrating Causality into Clinical Decision-Making for Enhanced ICU Mortality Prediction
+      institution: College of Computer Science, Sichuan University
+      year: 07/2024 - Present
+      description:
+        - Developed a causal prediction model outperforming benchmarks in ICU data analysis.
+    - title: Life Changes and Mental Health Among Chinese Students During COVID-19
+      institution: West China Hospital, SCU
+      year: 07/2021 - 06/2024
+      description:
+        - Analyzed survey data from 7,829 students to study mental health impacts during lockdowns.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020-2021
+      items:
+        - President’s Special Award (Top 10)
+        - First-Class Scholarship (Top 3%)
+    - year: 2022
+      items:
+        - Outstanding Graduate, NJUCM (Top 7%)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Health Policy and Management
+      items:
+        - Research on public health policy development.
+        - Hospital management and health economics.
+    - title: Data-Driven Healthcare
+      items:
+        - Machine learning for predictive modeling.
+        - Statistical analysis of healthcare outcomes.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Taekwondo (National level competitor), Creative writing, Hiking.

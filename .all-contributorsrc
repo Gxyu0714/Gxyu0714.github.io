@@ -1,0 +1,20 @@
+{
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "projectName": "Gxyu0714.github.io",
+  "projectOwner": "Gxyu0714",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "Gxyu0714",
+      "name": "Xinyu Guo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177379807?v=4",
+      "profile": "https://github.com/Gxyu0714",
+      "contributions": ["code", "content", "design"]
+    }
+  ]
+}
