@@ -217,26 +217,55 @@ def dump_known(pubs: list[dict]) -> None:
     KNOWN_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def titles_match(a: str, b: str) -> bool:
+    ka, kb = normalize_title(a), normalize_title(b)
+    if not ka or not kb:
+        return False
+    if ka == kb:
+        return True
+    # Google Scholar often truncates long titles.
+    shorter, longer = (ka, kb) if len(ka) <= len(kb) else (kb, ka)
+    return len(shorter) >= 40 and longer.startswith(shorter)
+
+
 def merge_works(*groups: list[dict]) -> list[dict]:
-    by_key: dict[str, dict] = {}
+    merged: list[dict] = []
     for group in groups:
         for w in group:
-            key = normalize_title(w["title"])
-            if not key:
+            title = (w.get("title") or "").strip()
+            if not title:
                 continue
-            if key not in by_key:
-                by_key[key] = dict(w)
-                by_key[key]["key"] = key
-            else:
-                # Prefer ORCID metadata when available
-                if by_key[key].get("source") != "orcid" and w.get("source") == "orcid":
-                    by_key[key].update(w)
-                    by_key[key]["key"] = key
-                elif not by_key[key].get("year") and w.get("year"):
-                    by_key[key]["year"] = w["year"]
-                if not by_key[key].get("doi") and w.get("doi"):
-                    by_key[key]["doi"] = w["doi"]
-    return list(by_key.values())
+            matched = None
+            for existing in merged:
+                if titles_match(existing["title"], title):
+                    matched = existing
+                    break
+            if matched is None:
+                item = dict(w)
+                item["title"] = title
+                item["key"] = normalize_title(title)
+                merged.append(item)
+                continue
+            # Prefer ORCID full metadata / longer title
+            if w.get("source") == "orcid" and matched.get("source") != "orcid":
+                matched.update(w)
+                matched["title"] = title
+                matched["key"] = normalize_title(title)
+            elif len(title) > len(matched.get("title") or ""):
+                matched["title"] = title
+                matched["key"] = normalize_title(title)
+            if not matched.get("year") and w.get("year"):
+                matched["year"] = w["year"]
+            if not matched.get("doi") and w.get("doi"):
+                matched["doi"] = w["doi"]
+    return merged
+
+
+def is_known(title: str, known_keys: set[str], known_titles: list[str]) -> bool:
+    key = normalize_title(title)
+    if key in known_keys:
+        return True
+    return any(titles_match(title, t) for t in known_titles)
 
 
 def write_news(work: dict) -> Path:
@@ -298,6 +327,7 @@ def main() -> int:
     known_pubs = known.get("publications") or []
     known_keys = {p.get("key") or normalize_title(p.get("title") or "") for p in known_pubs}
     known_keys.discard("")
+    known_titles = [p.get("title") or "" for p in known_pubs if p.get("title")]
 
     # Bootstrap: record everything, create no news.
     if not known_keys:
@@ -306,7 +336,7 @@ def main() -> int:
         print("[info] No news created on first run.")
         return 0
 
-    new_works = [w for w in works if normalize_title(w["title"]) not in known_keys]
+    new_works = [w for w in works if not is_known(w["title"], known_keys, known_titles)]
     created = []
     for w in sorted(new_works, key=lambda x: (x.get("year") or "", x["title"])):
         path = write_news(w)
