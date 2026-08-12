@@ -201,8 +201,8 @@ collections:
 
 announcements:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: true # homepage news: show ~3-4 items, hover to scroll for more
+  limit: 12 # how many news items are available in the scroll list
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
