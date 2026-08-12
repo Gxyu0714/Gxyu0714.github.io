@@ -459,6 +459,55 @@ html[data-lang='zh'] .lang-en {
   }
 }
 
+.research-item {
+  background-color: transparent;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  display: flex;
+  gap: 20px;
+}
+
+.research-image {
+  flex: 0 0 160px;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.research-content {
+  flex: 1;
+  color: var(--global-text-color);
+
+  p {
+    color: var(--global-text-color);
+  }
+}
+
+.papertitle,
+.projecttitle {
+  font-weight: bold;
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+
+.papertitle:hover,
+.projecttitle:hover {
+  color: var(--global-theme-color);
+}
+
+@media (max-width: 768px) {
+  .research-item {
+    flex-direction: column;
+  }
+
+  .research-image {
+    align-self: center;
+  }
+}
+
 // Social (bottom)
 
 .social {
