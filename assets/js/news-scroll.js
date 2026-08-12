@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll(".news-scroll--fade").forEach(e=>{const t=e.querySelector(".news-scroll__inner");if(!t)return;const o=()=>{const o=t.scrollTop+t.clientHeight>=t.scrollHeight-2;e.classList.toggle("is-at-bottom",o)};t.addEventListener("scroll",o,{passive:!0}),o()})});
