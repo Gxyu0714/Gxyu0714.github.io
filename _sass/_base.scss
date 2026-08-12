@@ -397,12 +397,65 @@ html[data-lang='zh'] .lang-en {
 .news {
   .table {
     color: var(--global-text-color);
+    margin-bottom: 0;
   }
 
   .news-date {
+    width: 7.5rem;
     color: var(--global-text-color-light);
     font-weight: 500;
     white-space: nowrap;
+    vertical-align: top;
+    padding-right: 1rem;
+  }
+
+  td {
+    color: var(--global-text-color);
+    vertical-align: top;
+  }
+}
+
+.news-scroll {
+  position: relative;
+}
+
+.news-scroll__inner {
+  max-height: none;
+  overflow: visible;
+}
+
+.news-scroll--fade {
+  .news-scroll__inner {
+    max-height: 8.75rem; // roughly 3–4 rows
+    overflow-y: hidden;
+    padding-right: 0.25rem;
+    scrollbar-width: thin;
+    scrollbar-color: var(--global-divider-color) transparent;
+    transition: max-height 0.25s ease;
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2.75rem;
+    pointer-events: none;
+    background: linear-gradient(to bottom, transparent, var(--global-bg-color));
+    opacity: 1;
+    transition: opacity 0.2s ease;
+  }
+
+  &:hover .news-scroll__inner,
+  &:focus-within .news-scroll__inner {
+    max-height: 16rem;
+    overflow-y: auto;
+  }
+
+  &:hover::after,
+  &:focus-within::after {
+    opacity: 0.35;
   }
 }
 
