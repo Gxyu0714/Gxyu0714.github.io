@@ -112,12 +112,20 @@ social: false
   <div class="profile-section">
     <div class="profile-text">
       <p class="lang-en">
-        I'm a research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
-        Previously, I got my master's degree in <a href="https://www.scu.edu.cn/">Sichuan University</a>. I will join the <a href="https://www.ucr.edu/">University of California, Riverside</a> as a PhD student in 26 Fall. I feel fortunate to get advised by <a href="https://sites.google.com/ucr.edu/hollyporourke">Holly O'Rourke</a>.
+        I am a first-year PhD student at the <a href="https://www.ucr.edu/">University of California, Riverside</a>, supervised by <a href="https://sites.google.com/ucr.edu/hollyporourke">Prof. Holly O'Rourke</a>.
+        My research focuses on methodological innovations in quantitative and computational psychology and psychiatry, integrating causal inference and machine learning to extract reliable information from complex behavioral and clinical data and to develop tools that support rigorous scientific inference and decision-making.
       </p>
       <p class="lang-zh">
-        我目前是<a href="https://www.polyu.edu.hk/">香港理工大学</a>研究助理，导师为 <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>。
-        此前于<a href="https://www.scu.edu.cn/">四川大学</a>获得硕士学位。我将于 2026 年秋季加入<a href="https://www.ucr.edu/">加州大学河滨分校</a>攻读博士，有幸由 <a href="https://sites.google.com/ucr.edu/hollyporourke">Holly O'Rourke</a> 指导。
+        我是<a href="https://www.ucr.edu/">加州大学河滨分校</a>一年级博士生，导师为 <a href="https://sites.google.com/ucr.edu/hollyporourke">Holly O'Rourke</a> 教授。
+        我的研究聚焦于定量与计算心理学及精神病学中的方法学创新，将因果推断与机器学习相结合，从复杂行为与临床数据中提取可靠信息，并开发支持严谨科学推断与决策的工具。
+      </p>
+      <p class="lang-en">
+        Previously, I received my B.S. in E-commerce (Big Data) from <a href="https://www.njucm.edu.cn/">Nanjing University of Chinese Medicine</a> and my Master of Medicine from <a href="https://www.scu.edu.cn/">Sichuan University</a>.
+        I was a research assistant at the <a href="https://www.polyu.edu.hk/">Hong Kong Polytechnic University</a>, supervised by <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>.
+      </p>
+      <p class="lang-zh">
+        此前，我于<a href="https://www.njucm.edu.cn/">南京中医药大学</a>获得电子商务（大数据）理学学士学位，于<a href="https://www.scu.edu.cn/">四川大学</a>获得医学硕士学位。
+        我曾在<a href="https://www.polyu.edu.hk/">香港理工大学</a>担任研究助理，导师为 <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>。
       </p>
       <p class="profile-links">
         <a href="mailto:xinyu714.guo@polyu.edu.hk" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -150,7 +158,7 @@ social: false
     </h2>
   </div>
 
-{% include research_list.liquid %}
+{% include research_list.liquid hide_abstract=true %}
 
 <div style="margin-bottom: 30px;">
   <h2>
