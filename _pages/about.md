@@ -128,7 +128,7 @@ social: false
         我曾在<a href="https://www.polyu.edu.hk/">香港理工大学</a>担任研究助理，导师为 <a href="https://scholar.google.com/citations?user=bQegv-8AAAAJ&hl=en">Daniel T.L. Shek</a>。
       </p>
       <p class="profile-links">
-        <a href="mailto:xinyu714.guo@polyu.edu.hk" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+        <a href="mailto:xinyu.guo@email.ucr.edu" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         <a href="https://scholar.google.com/citations?user=cDDGr3sAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
         <a href="https://x.com/XinyuGuo1654050" title="Twitter / X" aria-label="Twitter / X"><i class="fa-brands fa-x-twitter"></i></a>
         <a href="https://www.linkedin.com/in/xinyuguo714/" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
